@@ -9,6 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - CV.qmd
+      - projects.qmd
+    tools: 
+      - icon: github
+        href: https://github.com/tuataratuatarae
 
 format:
   html:

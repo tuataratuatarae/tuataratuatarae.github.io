@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Department of Environmental Sciences / Emory University\nAdvisor: Dr. Carolyn Keogh\nFor my Honors Thesis, I am currently conducting a study evaluating the abundance and distribution of the Talladega seal salamander (Desmognathus cheaha) across a series of streams in northeast Atlanta. I am using both field and raster data to characterize streams and their watersheds, and to explore patterns in D. cheaha abundance, particularly along an urbanizing gradient. In addition, I am analyzing microhabitat data to characterize microhabitat use in D, cheaha, but also evaluate whether microhabitat partitioning occurs between D. cheaha and other members of the streambank plethodontid assemblage. This project is funded by a Lester Grant from Emory's Department of Environmental Sciences."
+  },
+  {
+    "objectID": "projects.html#habitat-use-and-community-dynamics-of-the-talladega-seal-salamander-desmognathus-cheaha",
+    "href": "projects.html#habitat-use-and-community-dynamics-of-the-talladega-seal-salamander-desmognathus-cheaha",
+    "title": "Projects",
+    "section": "",
+    "text": "Department of Environmental Sciences / Emory University\nAdvisor: Dr. Carolyn Keogh\nFor my Honors Thesis, I am currently conducting a study evaluating the abundance and distribution of the Talladega seal salamander (Desmognathus cheaha) across a series of streams in northeast Atlanta. I am using both field and raster data to characterize streams and their watersheds, and to explore patterns in D. cheaha abundance, particularly along an urbanizing gradient. In addition, I am analyzing microhabitat data to characterize microhabitat use in D, cheaha, but also evaluate whether microhabitat partitioning occurs between D. cheaha and other members of the streambank plethodontid assemblage. This project is funded by a Lester Grant from Emory's Department of Environmental Sciences."
+  },
+  {
+    "objectID": "projects.html#climate-stressors-ecophysiology-and-farmed-pacific-oysters-crassostrea-gigas",
+    "href": "projects.html#climate-stressors-ecophysiology-and-farmed-pacific-oysters-crassostrea-gigas",
+    "title": "Projects",
+    "section": "Climate Stressors, Ecophysiology, and Farmed Pacific Oysters (Crassostrea gigas)",
+    "text": "Climate Stressors, Ecophysiology, and Farmed Pacific Oysters (Crassostrea gigas)\nNorthwest Fisheries Science Center / National Marine Fisheries Service / NOAA\nAdvisors: Dr. Craig Norrie, Dr. Paul McElhany, Dr. Shallin Busch\nDuring the summer of 2023, I worked with the NOAA NWFSC Ocean Acidification Lab and the University of Washington's School of Aquatic & Fishery Sciences studying spatial variation in the physiology of diploid and triploid Pacific oysters (Crassostrea gigas). I performed respirometry trials on diploid, mated triploid, and chemically-induced triploid oysters that had been outplanted at various locations in the Puget Sound. I also collected environmental data from each site, and used titration and spectrophotometric pH measurements to characterize the carbonate chemistry systems of these areas, to determine the role of environmental variables in stress responses.\n\nMy participation in this project was funded by a NOAA Ernest F. Hollings Scholarship, and I presented my findings at NOAA's Science and Education Symposium."
+  },
+  {
+    "objectID": "projects.html#heavy-metal-contamination-urban-streams-and-environmental-justice-in-atlanta",
+    "href": "projects.html#heavy-metal-contamination-urban-streams-and-environmental-justice-in-atlanta",
+    "title": "Projects",
+    "section": "Heavy Metal Contamination, Urban Streams, and Environmental Justice in Atlanta",
+    "text": "Heavy Metal Contamination, Urban Streams, and Environmental Justice in Atlanta\nSaikawa Laboratory / Department of Environmental Sciences / Emory University\nAdvisor: Dr. Eri Saikawa\nFrom 2021 to 2022, I worked in Eri Saikawa's lab on a community-based participatory research project studying residential soil lead contamination and lead poisoning in children. As a part of this project, I participated in soil sampling efforts at participants' homes within the Westside Atlanta Superfund Site boundary. I also led the processing and analysis of these samples using x-ray fluorescence spectrometry, and managed the disposal of contaminated samples after analysis.\n\nDuring the summer of 2022, I received a Summer Undergraduate Research Experience (SURE) Fellowship from Emory to analyze slag and sediment samples from streams in the metro-Atlanta area to identify areas of concern for heavy metal contamination. I presented the findings of this project at Emory's Summer Undergraduate Research Symposium."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nicholas Chang",
@@ -9,77 +37,84 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "title": "About",
     "section": "",
-    "text": "My name is Nick and I’m an undergrad studying Environmental Sciences at Emory University! I am broadly interested in ecology, biogeography and conservation biology, and while I am open to work in a variety of ecosystems, I have the most experience working in forests, freshwater streams, and coastal areas. I’m super stoked about amphibians, reptiles, plants, and aquatic invertebrates, but I have been gradually expanding my horizons into different taxa (big fan of woodpeckers these days). Though I have probably been on the ecology career trajectory since elementary school, I did make a few forays into the world of Latin and Roman history in middle/high school, and was nearly a Classics minor as an undergrad. Outside of the classroom, I enjoy hiking, camping, climbing, and photographing salamanders and wildflowers. I’ve also been making a lot of maps for fun lately. I have a 1400+ day streak on Duolingo and enjoy the NYT Mini Crossword. I’m also a huge fan of the KY-based band Bendigo Fletcher."
+    "text": "My name is Nick and I’m an undergrad studying Environmental Sciences at Emory University! I am broadly interested in ecology, biogeography and conservation biology, and while I am open to work in a variety of ecosystems, I have the most experience working in forests, freshwater streams, and coastal areas. I’m super stoked about amphibians, reptiles, plants, and aquatic invertebrates, but I have been gradually expanding my horizons into different taxa (big fan of woodpeckers these days). Though I have probably been on the ecology career trajectory since elementary school, I did make a few forays into the world of Latin and Roman history in middle/high school, and was nearly a Classics minor as an undergrad. Outside of the classroom, I enjoy hiking, camping, climbing, and photographing salamanders and wildflowers. I’ve also been making a lot of maps for fun lately. I have a 1400+ day streak on Duolingo and enjoy the NYT Mini Crossword. I’m also a huge fan of the KY-based band Bendigo Fletcher.\n\n\n\nTrillium vaseyi from Rabun Bald, GA"
   },
   {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About Me, I Guess (CV at the bottom)",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nBiogeography, spatial ecology, conservation biology, and GIS\nAnthropogenic shifts in habitat suitability and organism/assemblage distribution\nForest, freshwater, and coastal ecosystems; ecological restoration\nEcology and conservation of amphibians, reptiles, aquatic invertebrates, and plants"
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Biogeography, spatial ecology, conservation biology, and GIS\nAnthropogenic shifts in habitat suitability and organism/assemblage distribution\nForest, freshwater, and coastal ecosystems; ecological restoration\nEcology and conservation of amphibians, reptiles, aquatic invertebrates, and plants"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "objectID": "CV.html#research-interests",
+    "href": "CV.html#research-interests",
+    "title": "CV",
+    "section": "",
+    "text": "Biogeography, spatial ecology, conservation biology, and GIS\nAnthropogenic shifts in habitat suitability and organism/assemblage distribution\nForest, freshwater, and coastal ecosystems; ecological restoration\nEcology and conservation of amphibians, reptiles, aquatic invertebrates, and plants"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "CV",
     "section": "Education",
     "text": "Education\n\n\n\n\n\n\n\n2020-present\nEmory University\nB.S. Environmental Sciences: Ecology & Conservation; Statistics Minor"
   },
   {
-    "objectID": "about.html#research-experience",
-    "href": "about.html#research-experience",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "objectID": "CV.html#research-experience",
+    "href": "CV.html#research-experience",
+    "title": "CV",
     "section": "Research Experience",
     "text": "Research Experience\n\n\n\n2022-present\nUndergraduate Honors Researcher, Emory University\nAdvisor: Dr. Carolyn Keogh\nHabitat use and community ecology in the newly-described Talladega seal salamander (Desmognathus cheaha)\n\n\nMay-Aug 2023\nHollings Scholar, Northwest Fisheries Science Center, NOAA/UW SAFS\nAdvisors: Drs. Craig Norrie, Paul McElhany, & Shallin Busch\nPhysiological responses of diploid and triploid farmed Pacific oysters (Crassostrea gigas) to climate stressors. Read more.\n\n\n2021-2022\nUndergraduate Researcher, Saikawa Laboratory, Emory University\nAdvisor: Dr. Eri Saikawa\nSoil and stream sediment contamination in the metro-Atlanta area\n\n\n2021-2022\nUndergraduate Researcher, Dept. of ENVS, Emory University\nAdvisor: Dr. John Wegner\nSalamander diversity in university forests and updates to the Emory Forest Management Plan"
   },
   {
-    "objectID": "about.html#presentations",
-    "href": "about.html#presentations",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "objectID": "CV.html#presentations",
+    "href": "CV.html#presentations",
+    "title": "CV",
     "section": "Presentations",
     "text": "Presentations\n(* - upcoming)\n\n\n\n\n\n\n\n2024\n*Chang, N., K. Jackson, P. McElhany, S. Busch, & C. Norrie. Physiological responses of Pacific oysters (Crassostrea gigas) of different ploidy groups to spatial variation in environmental conditions. Ocean Sciences Meeting. New Orleans, LA. Poster presentation.\n*Chang, N., W. Hutchinson, & C. Keogh. Patterns in habitat use of the newly-described Talladega seal salamander (Desmognathus cheaha). Society for Integrative & Comparative Biology Annual Meeting. Seattle, WA. Poster presentation.\n\n\n2023\nChang, N., K. Jackson, P. McElhany, S. Busch, & C. Norrie.  Spatial variation in the physiological responses of Pacific oysters (Crassostrea gigas) across ploidy groups. National Oceanic & Atmospheric Administration Science & Education Symposium. Silver Spring, MD. Oral presentation.\n\n\n2022\nChang, N., E. Saikawa, T.R. Bowen, L. Fawkes, & F. Sams. Analysis of heavy metals and metalloids in metallurgical slags and stream sediments from the metro-Atlanta area. Emory University Undergraduate Research Summer Symposium. Atlanta, GA. Poster presentation."
   },
   {
-    "objectID": "about.html#grants-funding",
-    "href": "about.html#grants-funding",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "objectID": "CV.html#grants-funding",
+    "href": "CV.html#grants-funding",
+    "title": "CV",
     "section": "Grants & Funding",
     "text": "Grants & Funding\n\n\n\n\n\n\n\n2023\nChen, I., N. Chang, & C. Keogh. Okefenokee As Place: Weekend Field Trip to the Okefenokee National Wildlife Refuge. Ecological Society of America SEEDS Chapter Grant. $970.\nChang, N. & C. Keogh. Investigating habitat use and community dynamics of Desmognathus sp. Salamanders in an urban landscape. Emory University Department of Environmental Sciences James G. Lester Fund. $1,359.76\n\n\n2021\nChang, N., C.K. Maki, & J. Wegner. A survey of Agrilus planipennis in Emory University’s campus forests. Emory University Office of Sustainability Initiatives Incentives Fund. $1,050.\nMaki, C.K., N. Chang, & J. Wegner. Native Pollinator Garden and Campus Reforestation. Emory University Office of Sustainability Initiatives Incentives Fund. $2,200.\n\n\n2020\nChang, N. & J. Horvath. Regreening Complex’s Green Roof. Emory University Office of Sustainability Initiatives Incentives Fund. $300."
   },
   {
-    "objectID": "about.html#teaching-experience",
-    "href": "about.html#teaching-experience",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "objectID": "CV.html#teaching-experience",
+    "href": "CV.html#teaching-experience",
+    "title": "CV",
     "section": "Teaching Experience",
     "text": "Teaching Experience\n\nTeaching Assistantships\n\n\n\n\n\n\n\nJan-May 2023\nField Botany (ENVS341). Emory University.\n\n\nAug-Dec 2022\nIntro to ENVS Field Studies (ENVS131). Emory University."
   },
   {
-    "objectID": "about.html#other-work-experience",
-    "href": "about.html#other-work-experience",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "objectID": "CV.html#other-work-experience",
+    "href": "CV.html#other-work-experience",
+    "title": "CV",
     "section": "Other Work Experience",
     "text": "Other Work Experience\n\n\n\n\n\n\n\n2023-present\nDEI Program Assistant, Department of Environmental Sciences, Emory University.\n\n\n2021-present\nResident/Sophomore Advisor, Office of Residence Life, Emory University, Atlanta, GA.\n\n\nMar-Dec 2022\nEnvironmental Health & Safety Coordinator, Saikawa Laboratory, Emory University.\n\n\n2021-2022\nIntern, Office of Sustainability Initiatives, Emory University, Atlanta, GA.\n\n\nJun-Aug 2021\nEnvironmental Education Intern, Sensing Nature LLC, Seminole, FL (virtual)."
   },
   {
-    "objectID": "about.html#service-leadership",
-    "href": "about.html#service-leadership",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "objectID": "CV.html#service-leadership",
+    "href": "CV.html#service-leadership",
+    "title": "CV",
     "section": "Service & Leadership",
     "text": "Service & Leadership\n\n\n\n\n\n\n\n2022-present\nDiversity, Equity, & Inclusion Committee, Dept. of Env. Sciences, Emory University\n\n\n2022-present\nPeer Mentor, Dept. of Environmental Sciences, Emory University\n\n\n2021-present\nUniversity Senate Committee on the Environment, Emory University\n\nCo-Chair, Forest Management Subcommittee (2022-present)\n\n\n\n2020-present\nFounder & Executive Board, Emory Ecological Society (ESA SEEDS Chapter)\n\n\n2022-2023\nUniversity Climate Action & Resilience Task Force, Emory University\n\n\n2021-2023\nForest Restoration Volunteer, Fernbank Museum of Natural History\n\n\n2021-2022\nOrganizing Committee, Symposium on Biological Diversity, Emory University"
   },
   {
-    "objectID": "about.html#honors-awards",
-    "href": "about.html#honors-awards",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "objectID": "CV.html#honors-awards",
+    "href": "CV.html#honors-awards",
+    "title": "CV",
     "section": "Honors & Awards",
-    "text": "Honors & Awards\n\n\n\n\n\n\n\n2023\nJames G. Lester Scholarship, Department of Environmental Sciences, Emory University\nENVS Conference Travel Award, Department of Environmental Sciences, Emory University\n\n\n2022\nErnest F. Hollings Scholarship, National Oceanic & Atmospheric Administration (NOAA)\nUNFCCC COP27 Delegate, Emory Climate Talks/Dept. of ENVS, Emory University\nSummer Undergraduate Research Experience (SURE) Fellowship, Emory University\nRobert S. Hascall Sustainability Innovator Award, Office of Sustainability, Emory University\nGAEP Scholarship, Georgia Association of Environmental Professionals\n\n\n2021\nEta Sigma Phi Honorary Society for Classical Studies\nJeanne Gold Dean's Achievement Scholarship, Emory University\n\n\n2020\nKohler Co. Scholarship, Kohler Co."
+    "text": "Honors & Awards\n\n\n\n\n\n\n\n2023\nJames G. Lester Scholarship, Department of Environmental Sciences, Emory University\nENVS Conference Travel Award, Department of Environmental Sciences, Emory University\n\n\n2022\nErnest F. Hollings Scholarship, National Oceanic & Atmospheric Administration (NOAA)\nUNFCCC COP27 Delegate, Emory Climate Talks/Dept. of ENVS, Emory University\nSummer Undergraduate Research Experience (SURE) Fellowship, Emory University\nRobert S. Hascall Sustainability Innovator Award, Office of Sustainability, Emory University\nGAEP Scholarship, Georgia Association of Environmental Professionals\n\n\n2021\nEta Sigma Phi Honorary Society for Classical Studies\nJeanne Gold Dean’s Achievement Scholarship, Emory University\n\n\n2020\nKohler Co. Scholarship, Kohler Co."
   },
   {
-    "objectID": "about.html#additional-information",
-    "href": "about.html#additional-information",
-    "title": "About Me, I Guess (CV at the bottom)",
+    "objectID": "CV.html#additional-information",
+    "href": "CV.html#additional-information",
+    "title": "CV",
     "section": "Additional Information",
     "text": "Additional Information\n\nField Skills: Plant identification; amphibian surveys; incremental soil sampling\nTechnical Skills: R, ArcGIS Pro, XRF spectrometry, spectrophotometry, titration, respirometry\nLanguages: Classical Latin (proficient), German (novice)\nInterests: Ancient Mediterranean history, crosswords, camping, climbing, horticulture, aquaria"
   }
