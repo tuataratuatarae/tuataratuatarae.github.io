@@ -14,11 +14,11 @@ title: "CV"
 
 ## Education
 
-+---------------+-----------------------------------------------------------------------+
-| 2020-present  | **Emory University**                                                  |
-|               |                                                                       |
-|               | B.S. Environmental Sciences: Ecology & Conservation; Statistics Minor |
-+---------------+-----------------------------------------------------------------------+
++--------------+-----------------------------------------------------------------------+
+| 2020-present | **Emory University**                                                  |
+|              |                                                                       |
+|              | B.S. Environmental Sciences: Ecology & Conservation; Statistics Minor |
++--------------+-----------------------------------------------------------------------+
 
 ## Research Experience
 
@@ -52,97 +52,92 @@ title: "CV"
 
 (\* - upcoming)
 
-+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2024        | **\*Chang, N.,** K. Jackson, P. McElhany, S. Busch, & C. Norrie. Physiological responses of Pacific oysters (*Crassostrea gigas*) of different ploidy groups to spatial variation in environmental conditions. Ocean Sciences Meeting. New Orleans, LA. Poster presentation.                       |
-|             |                                                                                                                                                                                                                                                                                                    |
-|             | **\*Chang, N.,** W. Hutchinson, & C. Keogh. Patterns in habitat use of the newly-described Talladega seal salamander (*Desmognathus cheaha*). Society for Integrative & Comparative Biology Annual Meeting. Seattle, WA. Poster presentation.                                                      |
-+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2023        | **Chang, N.,** K. Jackson, P. McElhany, S. Busch, & C. Norrie.  Spatial variation in the physiological responses of Pacific oysters (*Crassostrea gigas*) across ploidy groups. National Oceanic & Atmospheric Administration Science & Education Symposium. Silver Spring, MD. Oral presentation. |
-+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2022        | **Chang, N.,** E. Saikawa, T.R. Bowen, L. Fawkes, & F. Sams. Analysis of heavy metals and metalloids in metallurgical slags and stream sediments from the metro-Atlanta area. Emory University Undergraduate Research Summer Symposium. Atlanta, GA. Poster presentation.                          |
-+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2024 | **\*Chang, N.,** K. Jackson, P. McElhany, S. Busch, & C. Norrie. Physiological responses of Pacific oysters (*Crassostrea gigas*) of different ploidy groups to spatial variation in environmental conditions. Ocean Sciences Meeting. New Orleans, LA. Poster presentation.                       |
+|      |                                                                                                                                                                                                                                                                                                    |
+|      | **\*Chang, N.,** W. Hutchinson, & C. Keogh. Patterns in habitat use of the newly-described Talladega seal salamander (*Desmognathus cheaha*). Society for Integrative & Comparative Biology Annual Meeting. Seattle, WA. Poster presentation.                                                      |
++------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2023 | **Chang, N.,** K. Jackson, P. McElhany, S. Busch, & C. Norrie.  Spatial variation in the physiological responses of Pacific oysters (*Crassostrea gigas*) across ploidy groups. National Oceanic & Atmospheric Administration Science & Education Symposium. Silver Spring, MD. Oral presentation. |
++------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2022 | **Chang, N.,** E. Saikawa, T.R. Bowen, L. Fawkes, & F. Sams. Analysis of heavy metals and metalloids in metallurgical slags and stream sediments from the metro-Atlanta area. Emory University Undergraduate Research Summer Symposium. Atlanta, GA. Poster presentation.                          |
++------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Grants & Funding
 
-+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2023        | Chen, I., **N. Chang,** & C. Keogh. Okefenokee As Place: Weekend Field Trip to the Okefenokee National Wildlife Refuge. Ecological Society of America SEEDS Chapter Grant. **\$970.**                                          |
-|             |                                                                                                                                                                                                                                |
-|             | **Chang, N.** & C. Keogh. Investigating habitat use and community dynamics of *Desmognathus sp*. Salamanders in an urban landscape. Emory University Department of Environmental Sciences James G. Lester Fund. **\$1,359.76** |
-+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2021        | **Chang, N.,** C.K. Maki, & J. Wegner. A survey of Agrilus planipennis in Emory University's campus forests. Emory University Office of Sustainability Initiatives Incentives Fund. **\$1,050.**                               |
-|             |                                                                                                                                                                                                                                |
-|             | Maki, C.K., N. Chang, & J. Wegner. Native Pollinator Garden and Campus Reforestation. Emory University Office of Sustainability Initiatives Incentives Fund. **\$2,200.**                                                      |
-+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2020        | **Chang, N.** & J. Horvath. Regreening Complex's Green Roof. Emory University Office of Sustainability Initiatives Incentives Fund. **\$300.**                                                                                 |
-+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2023 | Chen, I., **N. Chang,** & C. Keogh. Okefenokee As Place: Weekend Field Trip to the Okefenokee National Wildlife Refuge. Ecological Society of America SEEDS Chapter Grant. **\$970.**                                          |
+|      |                                                                                                                                                                                                                                |
+|      | **Chang, N.** & C. Keogh. Investigating habitat use and community dynamics of *Desmognathus sp*. Salamanders in an urban landscape. Emory University Department of Environmental Sciences James G. Lester Fund. **\$1,359.76** |
++------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2021 | **Chang, N.,** C.K. Maki, & J. Wegner. A survey of Agrilus planipennis in Emory University's campus forests. Emory University Office of Sustainability Initiatives Incentives Fund. **\$1,050.**                               |
+|      |                                                                                                                                                                                                                                |
+|      | Maki, C.K., N. Chang, & J. Wegner. Native Pollinator Garden and Campus Reforestation. Emory University Office of Sustainability Initiatives Incentives Fund. **\$2,200.**                                                      |
++------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2020 | **Chang, N.** & J. Horvath. Regreening Complex's Green Roof. Emory University Office of Sustainability Initiatives Incentives Fund. **\$300.**                                                                                 |
++------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Teaching Experience
 
 ### Teaching Assistantships
 
-+----------------+----------------------------------------------------------+
-| Jan-May 2023   | Field Botany (ENVS341). Emory University.                |
-+----------------+----------------------------------------------------------+
-| Aug-Dec 2022   | Intro to ENVS Field Studies (ENVS131). Emory University. |
-+----------------+----------------------------------------------------------+
+|              |                                                          |
+|--------------|----------------------------------------------------------|
+| Jan-May 2023 | Field Botany (ENVS341). Emory University.                |
+| Aug-Dec 2022 | Intro to ENVS Field Studies (ENVS131). Emory University. |
 
 ## Other Work Experience
 
-+--------------+------------------------------------------------------------------------------------------+
+|              |                                                                                          |
+|--------------|------------------------------------------------------------------------------------------|
 | 2023-present | **DEI Program Assistant,** Department of Environmental Sciences, Emory University.       |
-+--------------+------------------------------------------------------------------------------------------+
 | 2021-present | **Resident/Sophomore Advisor,** Office of Residence Life, Emory University, Atlanta, GA. |
-+--------------+------------------------------------------------------------------------------------------+
 | Mar-Dec 2022 | **Environmental Health & Safety Coordinator,** Saikawa Laboratory, Emory University.     |
-+--------------+------------------------------------------------------------------------------------------+
 | 2021-2022    | **Intern,** Office of Sustainability Initiatives, Emory University, Atlanta, GA.         |
-+--------------+------------------------------------------------------------------------------------------+
 | Jun-Aug 2021 | **Environmental Education Intern,** Sensing Nature LLC, Seminole, FL (virtual).          |
-+--------------+------------------------------------------------------------------------------------------+
 
 ## Service & Leadership
 
-+---------------+----------------------------------------------------------------------------------------+
-| 2022-present  | **Diversity, Equity, & Inclusion Committee,** Dept. of Env. Sciences, Emory University |
-+---------------+----------------------------------------------------------------------------------------+
-| 2022-present  | **Peer Mentor,** Dept. of Environmental Sciences, Emory University                     |
-+---------------+----------------------------------------------------------------------------------------+
-| 2021-present  | **University Senate Committee on the Environment,** Emory University                   |
-|               |                                                                                        |
-|               | -   Co-Chair, Forest Management Subcommittee (2022-present)                            |
-+---------------+----------------------------------------------------------------------------------------+
-| 2020-present  | **Founder & Executive Board,** Emory Ecological Society (ESA SEEDS Chapter)            |
-+---------------+----------------------------------------------------------------------------------------+
-| 2022-2023     | **University Climate Action & Resilience Task Force,** Emory University                |
-+---------------+----------------------------------------------------------------------------------------+
-| 2021-2023     | **Forest Restoration Volunteer,** Fernbank Museum of Natural History                   |
-+---------------+----------------------------------------------------------------------------------------+
-| 2021-2022     | **Organizing Committee,** Symposium on Biological Diversity, Emory University          |
-+---------------+----------------------------------------------------------------------------------------+
++--------------+----------------------------------------------------------------------------------------+
+| 2022-present | **Diversity, Equity, & Inclusion Committee,** Dept. of Env. Sciences, Emory University |
++--------------+----------------------------------------------------------------------------------------+
+| 2022-present | **Peer Mentor,** Dept. of Environmental Sciences, Emory University                     |
++--------------+----------------------------------------------------------------------------------------+
+| 2021-present | **University Senate Committee on the Environment,** Emory University                   |
+|              |                                                                                        |
+|              | -   Co-Chair, Forest Management Subcommittee (2022-present)                            |
++--------------+----------------------------------------------------------------------------------------+
+| 2020-present | **Founder & Executive Board,** Emory Ecological Society (ESA SEEDS Chapter)            |
++--------------+----------------------------------------------------------------------------------------+
+| 2022-2023    | **University Climate Action & Resilience Task Force,** Emory University                |
++--------------+----------------------------------------------------------------------------------------+
+| 2021-2023    | **Forest Restoration Volunteer,** Fernbank Museum of Natural History                   |
++--------------+----------------------------------------------------------------------------------------+
+| 2021-2022    | **Organizing Committee,** Symposium on Biological Diversity, Emory University          |
++--------------+----------------------------------------------------------------------------------------+
 
 ## Honors & Awards
 
-+--------------+--------------------------------------------------------------------------------------------------+
-| 2023         | **James G. Lester Scholarship,** Department of Environmental Sciences, Emory University          |
-|              |                                                                                                  |
-|              | **ENVS Conference Travel Award,** Department of Environmental Sciences, Emory University         |
-+--------------+--------------------------------------------------------------------------------------------------+
-| 2022         | **Ernest F. Hollings Scholarship,** National Oceanic & Atmospheric Administration (NOAA)         |
-|              |                                                                                                  |
-|              | **UNFCCC COP27 Delegate,** Emory Climate Talks/Dept. of ENVS, Emory University                   |
-|              |                                                                                                  |
-|              | **Summer Undergraduate Research Experience (SURE) Fellowship,** Emory University                 |
-|              |                                                                                                  |
-|              | **Robert S. Hascall Sustainability Innovator Award,** Office of Sustainability, Emory University |
-|              |                                                                                                  |
-|              | **GAEP Scholarship,** Georgia Association of Environmental Professionals                         |
-+--------------+--------------------------------------------------------------------------------------------------+
-| 2021         | **Eta Sigma Phi Honorary Society for Classical Studies**                                         |
-|              |                                                                                                  |
-|              | **Jeanne Gold Dean's Achievement Scholarship,** Emory University                                 |
-+--------------+--------------------------------------------------------------------------------------------------+
-| 2020         | **Kohler Co. Scholarship,** Kohler Co.                                                           |
-+--------------+--------------------------------------------------------------------------------------------------+
++------+--------------------------------------------------------------------------------------------------+
+| 2023 | **James G. Lester Scholarship,** Department of Environmental Sciences, Emory University          |
+|      |                                                                                                  |
+|      | **ENVS Conference Travel Award,** Department of Environmental Sciences, Emory University         |
++------+--------------------------------------------------------------------------------------------------+
+| 2022 | **Ernest F. Hollings Scholarship,** National Oceanic & Atmospheric Administration (NOAA)         |
+|      |                                                                                                  |
+|      | **UNFCCC COP27 Delegate,** Emory Climate Talks/Dept. of ENVS, Emory University                   |
+|      |                                                                                                  |
+|      | **Summer Undergraduate Research Experience (SURE) Fellowship,** Emory University                 |
+|      |                                                                                                  |
+|      | **Robert S. Hascall Sustainability Innovator Award,** Office of Sustainability, Emory University |
+|      |                                                                                                  |
+|      | **GAEP Scholarship,** Georgia Association of Environmental Professionals                         |
++------+--------------------------------------------------------------------------------------------------+
+| 2021 | **Eta Sigma Phi Honorary Society for Classical Studies**                                         |
+|      |                                                                                                  |
+|      | **Jeanne Gold Dean's Achievement Scholarship,** Emory University                                 |
++------+--------------------------------------------------------------------------------------------------+
+| 2020 | **Kohler Co. Scholarship,** Kohler Co.                                                           |
++------+--------------------------------------------------------------------------------------------------+
 
 ## Additional Information
 
