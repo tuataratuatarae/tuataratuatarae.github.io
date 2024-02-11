@@ -1,0 +1,5 @@
+---
+title: "Maps"
+---
+
+As a student, I've discovered a passion for data visualization, especially through the use of GIS! Here are some maps that I've made which I'm particularly proud of:
