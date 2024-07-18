@@ -25,7 +25,9 @@ title: "CV"
 ## Research Experience
 
 +--------------------+--------------------------------------------------------------------------------------------------------------------+
-| Starting Aug. 2024 | **NSF Rare Plant RaMP Fellow,** Southeastern Center for Conservation, Atlanta Botanical Garden                     |
+| Starting Jul. 2024 | **NSF RaMP Fellow,** Southeastern Center for Conservation, Atlanta Botanical Garden                                |
+|                    |                                                                                                                    |
+|                    | Advisor: Dr. Lauren Eserman-Campbell                                                                               |
 +--------------------+--------------------------------------------------------------------------------------------------------------------+
 | 2022-2024          | **Undergraduate Honors Researcher,** Emory University                                                              |
 |                    |                                                                                                                    |
@@ -56,21 +58,21 @@ title: "CV"
 
 (\* - upcoming)
 
-+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2024   | **\*Chang, N.,** I. Chen, I. Roeske, Y. Covey, K. Coles, M. Chen, C.K. Maki, W. Hutchinson, J. Wegner, & C. Keogh. Community through place: Peer-to-peer mentoring to advance student-led ecological science, practice, and action at Emory University. Ecological Society of America. Long Beach, CA. Oral presentation.  |
-|        |                                                                                                                                                                                                                                                                                                                            |
-|        | \***Chang, N.,** W. Hutchinson, & C. Keogh. Microhabitat utilization of the Talladega Seal Salamander (*Desmognathus cheaha*) and spatial niche partitioning with a co-occurring congener. Ecological Society of America. Long Beach, CA. Poster presentation.                                                             |
-|        |                                                                                                                                                                                                                                                                                                                            |
-|        | **Chang, N.,** W. Hutchinson, & C. Keogh. Patterns in habitat use of the newly-described Talladega seal salamander (*Desmognathus cheaha).* Southeastern Partners in Amphibian & Reptile Conservation. Nauvoo, AL. Speed Talk. [*Winner, Best Student/Early Career Speed Talk.*]{.underline}                               |
-|        |                                                                                                                                                                                                                                                                                                                            |
-|        | **Chang, N.,** K. Jackson, P. McElhany, S. Busch, & C. Norrie. Physiological responses of Pacific oysters (*Crassostrea gigas*) of different ploidy groups to spatial variation in environmental conditions. Ocean Sciences Meeting. New Orleans, LA. Poster presentation.                                                 |
-|        |                                                                                                                                                                                                                                                                                                                            |
-|        | **Chang, N.,** W. Hutchinson, & C. Keogh. Patterns in habitat use of the newly-described Talladega seal salamander (*Desmognathus cheaha*). Society for Integrative & Comparative Biology Annual Meeting. Seattle, WA. Poster presentation.                                                                                |
-+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2023   | **Chang, N.,** K. Jackson, P. McElhany, S. Busch, & C. Norrie.  Spatial variation in the physiological responses of Pacific oysters (*Crassostrea gigas*) across ploidy groups. National Oceanic & Atmospheric Administration Science & Education Symposium. Silver Spring, MD. Oral presentation.                         |
-+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2022   | **Chang, N.,** E. Saikawa, T.R. Bowen, L. Fawkes, & F. Sams. Analysis of heavy metals and metalloids in metallurgical slags and stream sediments from the metro-Atlanta area. Emory University Undergraduate Research Summer Symposium. Atlanta, GA. Poster presentation.                                                  |
-+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++--------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2024   | **\*Chang, N.,** I. Chen, I. Roeske, Y. Covey, K. Coles, M. Chen, C.K. Maki, W. Hutchinson, J. Wegner, & C. Keogh. Community through place: Peer-to-peer mentoring to advance student-led ecological science, practice, and action at Emory University. Ecological Society of America. Long Beach, CA. Oral presentation. |
+|        |                                                                                                                                                                                                                                                                                                                           |
+|        | \***Chang, N.,** W. Hutchinson, & C. Keogh. Microhabitat utilization of the Talladega Seal Salamander (*Desmognathus cheaha*) and spatial niche partitioning with a co-occurring congener. Ecological Society of America. Long Beach, CA. Poster presentation.                                                            |
+|        |                                                                                                                                                                                                                                                                                                                           |
+|        | **Chang, N.,** W. Hutchinson, & C. Keogh. Patterns in habitat use of the newly-described Talladega seal salamander (*Desmognathus cheaha).* Southeastern Partners in Amphibian & Reptile Conservation. Nauvoo, AL. Speed Talk. [*Winner, Best Student/Early Career Speed Talk.*]{.underline}                              |
+|        |                                                                                                                                                                                                                                                                                                                           |
+|        | **Chang, N.,** K. Jackson, P. McElhany, S. Busch, & C. Norrie. Physiological responses of Pacific oysters (*Crassostrea gigas*) of different ploidy groups to spatial variation in environmental conditions. Ocean Sciences Meeting. New Orleans, LA. Poster presentation.                                                |
+|        |                                                                                                                                                                                                                                                                                                                           |
+|        | **Chang, N.,** W. Hutchinson, & C. Keogh. Patterns in habitat use of the newly-described Talladega seal salamander (*Desmognathus cheaha*). Society for Integrative & Comparative Biology Annual Meeting. Seattle, WA. Poster presentation.                                                                               |
++--------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2023   | **Chang, N.,** K. Jackson, P. McElhany, S. Busch, & C. Norrie.  Spatial variation in the physiological responses of Pacific oysters (*Crassostrea gigas*) across ploidy groups. National Oceanic & Atmospheric Administration Science & Education Symposium. Silver Spring, MD. Oral presentation.                        |
++--------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2022   | **Chang, N.,** E. Saikawa, T.R. Bowen, L. Fawkes, & F. Sams. Analysis of heavy metals and metalloids in metallurgical slags and stream sediments from the metro-Atlanta area. Emory University Undergraduate Research Summer Symposium. Atlanta, GA. Poster presentation.                                                 |
++--------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Grants & Funding
 
@@ -114,23 +116,23 @@ title: "CV"
 
 ## Service & Leadership
 
-+-------------+----------------------------------------------------------------------------------------+
-| 2022-2024   | **Diversity, Equity, & Inclusion Committee,** Dept. of Env. Sciences, Emory University |
-+-------------+----------------------------------------------------------------------------------------+
-| 2022-2024   | **Peer Mentor,** Dept. of Environmental Sciences, Emory University                     |
-+-------------+----------------------------------------------------------------------------------------+
-| 2021-2024   | **University Senate Committee on the Environment,** Emory University                   |
-|             |                                                                                        |
-|             | -   Co-Chair, Forest Management Subcommittee (2022-present)                            |
-+-------------+----------------------------------------------------------------------------------------+
-| 2020-2024   | **Founder & Executive Board,** Emory Ecological Society (ESA SEEDS Chapter)            |
-+-------------+----------------------------------------------------------------------------------------+
-| 2022-2023   | **University Climate Action & Resilience Task Force,** Emory University                |
-+-------------+----------------------------------------------------------------------------------------+
-| 2021-2023   | **Forest Restoration Volunteer,** Fernbank Museum of Natural History                   |
-+-------------+----------------------------------------------------------------------------------------+
-| 2021-2022   | **Organizing Committee,** Symposium on Biological Diversity, Emory University          |
-+-------------+----------------------------------------------------------------------------------------+
++------------+----------------------------------------------------------------------------------------+
+| 2022-2024  | **Diversity, Equity, & Inclusion Committee,** Dept. of Env. Sciences, Emory University |
++------------+----------------------------------------------------------------------------------------+
+| 2022-2024  | **Peer Mentor,** Dept. of Environmental Sciences, Emory University                     |
++------------+----------------------------------------------------------------------------------------+
+| 2021-2024  | **University Senate Committee on the Environment,** Emory University                   |
+|            |                                                                                        |
+|            | -   Co-Chair, Forest Management Subcommittee (2022-present)                            |
++------------+----------------------------------------------------------------------------------------+
+| 2020-2024  | **Founder & Executive Board,** Emory Ecological Society (ESA SEEDS Chapter)            |
++------------+----------------------------------------------------------------------------------------+
+| 2022-2023  | **University Climate Action & Resilience Task Force,** Emory University                |
++------------+----------------------------------------------------------------------------------------+
+| 2021-2023  | **Forest Restoration Volunteer,** Fernbank Museum of Natural History                   |
++------------+----------------------------------------------------------------------------------------+
+| 2021-2022  | **Organizing Committee,** Symposium on Biological Diversity, Emory University          |
++------------+----------------------------------------------------------------------------------------+
 
 ## Honors & Awards
 
