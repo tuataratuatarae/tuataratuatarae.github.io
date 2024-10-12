@@ -1,6 +1,17 @@
 ---
-title: "Projects"
+title: "Research"
 ---
+
+## Conservation Genetics and Species Delimitation of North American Pitcher Plants in the *Sarracenia rubra* species complex
+
+**Southeastern Center for Conservation / Atlanta Botanical Garden**
+
+*Advisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael*
+
+As a current NSF RaMP Trainee, I am studying species delimitation in the *Sarracenia rubra* species complex, an taxonomically unresolved group of North American pitcher plants. This group includes three federally-listed Endangered taxa and two subspecies petitioned for listing under the Endangered Species Act. I will be isolating DNA from plants in ABG's conservation safeguarding collection and local herbaria, then employing whole genome sequencing to study phylogeny and genetic diversity in this complex. 
+
+This project is funded by the NSF RaMP Program.
+
 
 ## Habitat Use and Community Dynamics of the Talladega Seal Salamander (*Desmognathus cheaha*)
 
