@@ -27,7 +27,7 @@ title: "CV"
 +-------------------+--------------------------------------------------------------------------------------------------------------------+
 | Jul. 2024-present | **NSF Rare Plant RaMP Trainee,** Atlanta Botanical Garden                                                          |
 |                   |                                                                                                                    |
-|                   | Advisor: Dr. Lauren Eserman-Campbell                                                                               |
+|                   | Advisor: Dr. Lauren Eserman-Campbell, Amanda Carmichael                                                            |
 |                   |                                                                                                                    |
 |                   | Conservation genetics of the *Sarracenia rubra* complex                                                            |
 +-------------------+--------------------------------------------------------------------------------------------------------------------+
