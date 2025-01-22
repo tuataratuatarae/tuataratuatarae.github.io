@@ -2,15 +2,13 @@
 title: "Research"
 ---
 
-## Conservation Genetics and Species Delimitation of North American Pitcher Plants in the *Sarracenia rubra* species complex
+## Conservation Genetics, Species Delimitation, and Biogeography of North American Pitcher Plants in the *Sarracenia rubra* species complex
 
 **Southeastern Center for Conservation / Atlanta Botanical Garden**
 
 *Advisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael*
 
-As a current NSF RaMP Trainee, I am studying species delimitation in the *Sarracenia rubra* species complex, an taxonomically unresolved group of North American pitcher plants. This group includes three federally-listed Endangered taxa and two subspecies petitioned for listing under the Endangered Species Act. I will be isolating DNA from plants in ABG's conservation safeguarding collection and local herbaria, then employing whole genome sequencing to study phylogeny and genetic diversity in this complex.
-
-This research is supported by the NSF RaMP Program and the Institute for Museum and Library Services.
+As a current NSF RaMP Trainee, I am studying species delimitation in the *Sarracenia rubra* species complex, an taxonomically unresolved group of North American pitcher plants. This group includes three federally-listed Endangered taxa and two subspecies petitioned for listing under the Endangered Species Act. I am isolating DNA from plants in ABG's conservation safeguarding collection and local herbaria, then using whole genome sequencing to study phylogenomic relationships in this species complex. I am further supporting these phylogenomic analyses with assessments of environmental niche differentiation using environmental data, as well as morphometrics from plants grown in a common garden at the ABG Conservation Safeguarding Nursery. 
 
 ![Wherry's Pitcher Plant (*Sarracenia alabamensis* ssp. *wherryi*). ABG Conservation Collections.](images/IMG_4661-01.jpeg)
 
@@ -32,7 +30,6 @@ I am currently working with staff at Emory University and AG Rhodes to digitize 
 
 For my Honors Thesis, I am currently conducting a study evaluating the abundance and distribution of the Talladega seal salamander (*Desmognathus cheaha*) across a series of streams in northeast Atlanta. The primary focus of this project to is to characterize microhabitat use in *D, cheaha* and explore whether microhabitat partitioning occurs between *D. cheaha* and other members of the streambank plethodontid assemblage. In addition, I am using both field and raster data to characterize streams and their watersheds, and to explore patterns in *D. cheaha* abundance, particularly along an urbanizing gradient.
 
-This project is funded by a Lester Grant from Emory's Department of Environmental Sciences.
 
 ![Talladega seal salamander (*Desmognathus cheaha)*, DeKalb Co., GA](images/Desmognathus_cheaha_2023-12-03.JPG)
 
@@ -44,7 +41,7 @@ This project is funded by a Lester Grant from Emory's Department of Environmenta
 
 During the summer of 2023, I worked with the NOAA NWFSC Ocean Acidification Lab and the University of Washington's School of Aquatic & Fishery Sciences studying spatial variation in the physiology of diploid and triploid Pacific oysters (*Crassostrea gigas*). I performed respirometry trials on diploid, mated triploid, and chemically-induced triploid oysters that had been outplanted at various locations in the Puget Sound. I also collected environmental data from each site, and used titration and spectrophotometric pH measurements to characterize the carbonate chemistry systems of these areas, to determine the role of environmental variables in stress responses.\
 \
-My participation in this project was funded by a NOAA Ernest F. Hollings Scholarship.
+
 
 ![Farmed Pacific oysters (*Crassostrea gigas*), Puget Sound, WA](images/Crassostrea_gigas_06-09-2023.JPG)
 
@@ -56,6 +53,6 @@ My participation in this project was funded by a NOAA Ernest F. Hollings Scholar
 
 From 2021 to 2022, I worked in Eri Saikawa's lab on a community-based participatory research project studying residential soil lead contamination and lead poisoning in children. As a part of this project, I participated in soil sampling efforts at participants' homes within the Westside Atlanta Superfund Site boundary. I also led the processing and analysis of these samples using x-ray fluorescence spectrometry, and managed the disposal of contaminated samples after analysis.\
 \
-During the summer of 2022, I participated in the [Summer Undergraduate Research Experience (SURE)](https://college.emory.edu/undergraduate-research/summer/index.html)program at Emory to analyze slag and sediment samples from streams in the metro-Atlanta area to identify areas of concern for heavy metal contamination.
+During the summer of 2022, I participated in the [Summer Undergraduate Research Experience (SURE)](https://college.emory.edu/undergraduate-research/summer/index.html) program at Emory to analyze slag and sediment samples from streams in the metro-Atlanta area to identify areas of concern for heavy metal contamination.
 
 ![South River Headwaters, East Point, GA](images/South_River_headwaters_15-06-2022.JPG)
