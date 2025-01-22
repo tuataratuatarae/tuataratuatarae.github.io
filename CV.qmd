@@ -24,33 +24,37 @@ title: "CV"
 
 ## Research Experience
 
-+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Jul. 2024-present | **NSF Rare Plant RaMP Trainee,** Atlanta Botanical Garden Advisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael Phylogenomics to inform species delimitation in the *Sarracenia rubra* complex |
-+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2022-2024         | **Undergraduate Honors Researcher,** Emory University                                                                                                                                             |
-|                   |                                                                                                                                                                                                   |
-|                   | Advisor: Dr. Carolyn Keogh                                                                                                                                                                        |
-|                   |                                                                                                                                                                                                   |
-|                   | Habitat use and community ecology in the newly-described Talladega seal salamander (*Desmognathus cheaha*)                                                                                        |
-+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| May-Aug 2023      | **Hollings Scholar,** Northwest Fisheries Science Center, NOAA/UW SAFS                                                                                                                            |
-|                   |                                                                                                                                                                                                   |
-|                   | Advisors: Drs. Craig Norrie, Paul McElhany, & Shallin Busch                                                                                                                                       |
-|                   |                                                                                                                                                                                                   |
-|                   | Physiological responses of diploid and triploid farmed Pacific oysters (*Crassostrea gigas*) to climate stressors.                                                                                |
-+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2021-2022         | **Undergraduate Researcher**, Saikawa Laboratory, Emory University                                                                                                                                |
-|                   |                                                                                                                                                                                                   |
-|                   | Advisor: Dr. Eri Saikawa                                                                                                                                                                          |
-|                   |                                                                                                                                                                                                   |
-|                   | Soil and stream sediment contamination in the metro-Atlanta area                                                                                                                                  |
-+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2021-2022         | **Undergraduate Researcher,** Dept. of ENVS, Emory University                                                                                                                                     |
-|                   |                                                                                                                                                                                                   |
-|                   | Advisor: Dr. John Wegner                                                                                                                                                                          |
-|                   |                                                                                                                                                                                                   |
-|                   | Salamander diversity in university forests and updates to the Emory Forest Management Plan                                                                                                        |
-+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| Jul. 2024-present | **NSF Rare Plant RaMP Trainee,** Atlanta Botanical Garden                                                          |
+|                   |                                                                                                                    |
+|                   | Advisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael                                                           |
+|                   |                                                                                                                    |
+|                   | Phylogenomics to inform species delimitation in the *Sarracenia rubra* complex                                     |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| 2022-2024         | **Undergraduate Honors Researcher,** Emory University                                                              |
+|                   |                                                                                                                    |
+|                   | Advisor: Dr. Carolyn Keogh                                                                                         |
+|                   |                                                                                                                    |
+|                   | Habitat use and community ecology in the newly-described Talladega seal salamander (*Desmognathus cheaha*)         |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| May-Aug 2023      | **Hollings Scholar,** Northwest Fisheries Science Center, NOAA/UW SAFS                                             |
+|                   |                                                                                                                    |
+|                   | Advisors: Drs. Craig Norrie, Paul McElhany, & Shallin Busch                                                        |
+|                   |                                                                                                                    |
+|                   | Physiological responses of diploid and triploid farmed Pacific oysters (*Crassostrea gigas*) to climate stressors. |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| 2021-2022         | **Undergraduate Researcher**, Saikawa Laboratory, Emory University                                                 |
+|                   |                                                                                                                    |
+|                   | Advisor: Dr. Eri Saikawa                                                                                           |
+|                   |                                                                                                                    |
+|                   | Soil and stream sediment contamination in the metro-Atlanta area                                                   |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
+| 2021-2022         | **Undergraduate Researcher,** Dept. of ENVS, Emory University                                                      |
+|                   |                                                                                                                    |
+|                   | Advisor: Dr. John Wegner                                                                                           |
+|                   |                                                                                                                    |
+|                   | Salamander diversity in university forests and updates to the Emory Forest Management Plan                         |
++-------------------+--------------------------------------------------------------------------------------------------------------------+
 
 ## Presentations
 
@@ -76,29 +80,29 @@ title: "CV"
 
 ## Grants & Funding
 
-+--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2024   | **Chang, N.** Broadening participation in herp conservation: funding for an undergraduate cohort to attend the 2024 Southeastern Partners in Amphibian & Reptile Conservation meeting. Emory University Dept. of Env. Sciences James G. Lester Fund. **\$3,349.** |
-+--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2023   | Chen, I., **N. Chang,** & C. Keogh. Okefenokee As Place: Weekend Field Trip to the Okefenokee National Wildlife Refuge. Ecological Society of America SEEDS Chapter Grant. **\$970.**                                                                             |
-|        |                                                                                                                                                                                                                                                                   |
-|        | **Chang, N.** & C. Keogh. Investigating habitat use and community dynamics of *Desmognathus sp*. Salamanders in an urban landscape. Emory University Department of Environmental Sciences James G. Lester Fund. **\$1,359.76**                                    |
-+--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2021   | **Chang, N.,** C.K. Maki, & J. Wegner. A survey of Agrilus planipennis in Emory University's campus forests. Emory University Office of Sustainability Initiatives Incentives Fund. **\$1,050.**                                                                  |
-|        |                                                                                                                                                                                                                                                                   |
-|        | Maki, C.K., N. Chang, & J. Wegner. Native Pollinator Garden and Campus Reforestation. Emory University Office of Sustainability Initiatives Incentives Fund. **\$2,200.**                                                                                         |
-+--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2020   | **Chang, N.** & J. Horvath. Regreening Complex's Green Roof. Emory University Office of Sustainability Initiatives Incentives Fund. **\$300.**                                                                                                                    |
-+--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2024    | **Chang, N.** Broadening participation in herp conservation: funding for an undergraduate cohort to attend the 2024 Southeastern Partners in Amphibian & Reptile Conservation meeting. Emory University Dept. of Env. Sciences James G. Lester Fund. **\$3,349.** |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2023    | Chen, I., **N. Chang,** & C. Keogh. Okefenokee As Place: Weekend Field Trip to the Okefenokee National Wildlife Refuge. Ecological Society of America SEEDS Chapter Grant. **\$970.**                                                                             |
+|         |                                                                                                                                                                                                                                                                   |
+|         | **Chang, N.** & C. Keogh. Investigating habitat use and community dynamics of *Desmognathus sp*. Salamanders in an urban landscape. Emory University Department of Environmental Sciences James G. Lester Fund. **\$1,359.76**                                    |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2021    | **Chang, N.,** C.K. Maki, & J. Wegner. A survey of Agrilus planipennis in Emory University's campus forests. Emory University Office of Sustainability Initiatives Incentives Fund. **\$1,050.**                                                                  |
+|         |                                                                                                                                                                                                                                                                   |
+|         | Maki, C.K., N. Chang, & J. Wegner. Native Pollinator Garden and Campus Reforestation. Emory University Office of Sustainability Initiatives Incentives Fund. **\$2,200.**                                                                                         |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2020    | **Chang, N.** & J. Horvath. Regreening Complex's Green Roof. Emory University Office of Sustainability Initiatives Incentives Fund. **\$300.**                                                                                                                    |
++---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Teaching Experience
 
 ### Teaching Assistantships
 
-+--------------+----------------------------------------------------------+
-| Jan-May 2023 | Field Botany (ENVS341). Emory University.                |
-+--------------+----------------------------------------------------------+
-| Aug-Dec 2022 | Intro to ENVS Field Studies (ENVS131). Emory University. |
-+--------------+----------------------------------------------------------+
++---------------+----------------------------------------------------------+
+| Jan-May 2023  | Field Botany (ENVS341). Emory University.                |
++---------------+----------------------------------------------------------+
+| Aug-Dec 2022  | Intro to ENVS Field Studies (ENVS131). Emory University. |
++---------------+----------------------------------------------------------+
 
 ## Other Work Experience
 
@@ -137,35 +141,35 @@ title: "CV"
 
 ## Honors & Awards
 
-+----------+--------------------------------------------------------------------------------------------------+
-| 2024     | **Boisfeuillet Jones Medal for Servant Leadership,** Emory University                            |
-|          |                                                                                                  |
-|          | **Elizabeth Long Atwood Undergraduate Research Award,** Emory University Libraries               |
-|          |                                                                                                  |
-|          | **SEEDS Travel Award to ESA 2024,** Ecological Society of America - SEEDS Program                |
-|          |                                                                                                  |
-|          | **C. Woodbridge Hickox Award,** Dept. of Environmental Sciences, Emory University                |
-+----------+--------------------------------------------------------------------------------------------------+
-| 2023     | **James G. Lester Scholarship,** Department of Environmental Sciences, Emory University          |
-|          |                                                                                                  |
-|          | **ENVS Conference Travel Award,** Department of Environmental Sciences, Emory University         |
-+----------+--------------------------------------------------------------------------------------------------+
-| 2022     | **Ernest F. Hollings Scholarship,** National Oceanic & Atmospheric Administration (NOAA)         |
-|          |                                                                                                  |
-|          | **UNFCCC COP27 Delegate,** Emory Climate Talks/Dept. of ENVS, Emory University                   |
-|          |                                                                                                  |
-|          | **Summer Undergraduate Research Experience (SURE) Fellowship,** Emory University                 |
-|          |                                                                                                  |
-|          | **Robert S. Hascall Sustainability Innovator Award,** Office of Sustainability, Emory University |
-|          |                                                                                                  |
-|          | **GAEP Scholarship,** Georgia Association of Environmental Professionals                         |
-+----------+--------------------------------------------------------------------------------------------------+
-| 2021     | **Eta Sigma Phi Honorary Society for Classical Studies**                                         |
-|          |                                                                                                  |
-|          | **Jeanne Gold Dean's Achievement Scholarship,** Emory University                                 |
-+----------+--------------------------------------------------------------------------------------------------+
-| 2020     | **Kohler Co. Scholarship,** Kohler Co.                                                           |
-+----------+--------------------------------------------------------------------------------------------------+
++-----------+--------------------------------------------------------------------------------------------------+
+| 2024      | **Boisfeuillet Jones Medal for Servant Leadership,** Emory University                            |
+|           |                                                                                                  |
+|           | **Elizabeth Long Atwood Undergraduate Research Award,** Emory University Libraries               |
+|           |                                                                                                  |
+|           | **SEEDS Travel Award to ESA 2024,** Ecological Society of America - SEEDS Program                |
+|           |                                                                                                  |
+|           | **C. Woodbridge Hickox Award,** Dept. of Environmental Sciences, Emory University                |
++-----------+--------------------------------------------------------------------------------------------------+
+| 2023      | **James G. Lester Scholarship,** Department of Environmental Sciences, Emory University          |
+|           |                                                                                                  |
+|           | **ENVS Conference Travel Award,** Department of Environmental Sciences, Emory University         |
++-----------+--------------------------------------------------------------------------------------------------+
+| 2022      | **Ernest F. Hollings Scholarship,** National Oceanic & Atmospheric Administration (NOAA)         |
+|           |                                                                                                  |
+|           | **UNFCCC COP27 Delegate,** Emory Climate Talks/Dept. of ENVS, Emory University                   |
+|           |                                                                                                  |
+|           | **Summer Undergraduate Research Experience (SURE) Fellowship,** Emory University                 |
+|           |                                                                                                  |
+|           | **Robert S. Hascall Sustainability Innovator Award,** Office of Sustainability, Emory University |
+|           |                                                                                                  |
+|           | **GAEP Scholarship,** Georgia Association of Environmental Professionals                         |
++-----------+--------------------------------------------------------------------------------------------------+
+| 2021      | **Eta Sigma Phi Honorary Society for Classical Studies**                                         |
+|           |                                                                                                  |
+|           | **Jeanne Gold Dean's Achievement Scholarship,** Emory University                                 |
++-----------+--------------------------------------------------------------------------------------------------+
+| 2020      | **Kohler Co. Scholarship,** Kohler Co.                                                           |
++-----------+--------------------------------------------------------------------------------------------------+
 
 ## Additional Information
 
