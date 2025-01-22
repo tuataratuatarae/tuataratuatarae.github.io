@@ -1,6 +1,28 @@
 ---
-title: "Projects"
+title: "Research"
 ---
+
+## Conservation Genetics and Species Delimitation of North American Pitcher Plants in the *Sarracenia rubra* species complex
+
+**Southeastern Center for Conservation / Atlanta Botanical Garden**
+
+*Advisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael*
+
+As a current NSF RaMP Trainee, I am studying species delimitation in the *Sarracenia rubra* species complex, an taxonomically unresolved group of North American pitcher plants. This group includes three federally-listed Endangered taxa and two subspecies petitioned for listing under the Endangered Species Act. I will be isolating DNA from plants in ABG's conservation safeguarding collection and local herbaria, then employing whole genome sequencing to study phylogeny and genetic diversity in this complex.
+
+This research is supported by the NSF RaMP Program and the Institute for Museum and Library Services.
+
+![Wherry's Pitcher Plant (*Sarracenia alabamensis* ssp. *wherryi*). ABG Conservation Collections.](images/IMG_4661-01.jpeg)
+
+## Natural History and Conservation of American Starvine (*Schisandra glabra*)
+
+**Dept. of Environmental Sciences / Emory University**
+
+*Advisors: Carl Brown, Kirk Hines HTR*
+
+I am currently working with staff at Emory University and AG Rhodes to digitize a seven-year phenology dataset for American Starvine (*Schisandra glabra*), an imperiled vine native to the Southeastern US and Hidalgo, Mexico. In addition, I have previously mapped known populations at a field site and developed habitat suitability models for a technical report for resource managers.
+
+![American Starvine (*Schisandra glabra*). DeKalb Co., GA. Photo: Nick Chang.](images/A3677804-7500-43CB-B086-56AC94ACCB65.jpeg)
 
 ## Habitat Use and Community Dynamics of the Talladega Seal Salamander (*Desmognathus cheaha*)
 
