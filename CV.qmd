@@ -4,11 +4,15 @@ title: "CV"
 
 ## Education
 
-+-------------+-----------------------------------------------------------------------+
-| 2020-2024   | **Emory University**                                                  |
-|             |                                                                       |
-|             | B.S. Environmental Sciences: Ecology & Conservation; Statistics Minor |
-+-------------+-----------------------------------------------------------------------+
++---------------+-----------------------------------------------------------------------+
+| Starting 2025 | **University of Minnesota**                                           |
+|               |                                                                       |
+|               | Ph.D. Student in Ecology, Evolution, & Behavior                       |
++---------------+-----------------------------------------------------------------------+
+| 2020-2024     | **Emory University**                                                  |
+|               |                                                                       |
+|               | B.S. Environmental Sciences: Ecology & Conservation; Statistics Minor |
++---------------+-----------------------------------------------------------------------+
 
 ## Research Interests
 
@@ -56,10 +60,18 @@ title: "CV"
 |                   | Salamander diversity in university forests and updates to the Emory Forest Management Plan                         |
 +-------------------+--------------------------------------------------------------------------------------------------------------------+
 
+## Publications
+
+**Chang, N.,** W. Hutchinson, & C. Keogh. *In press.* Microhabitat use of the Talladega Seal Salamander (*Desmognathus cheaha*) and spatial niche partitioning with a congener in metro-Atlanta headwater streams. *Herpetological Conservation & Biology* 20(2).
+
 ## Presentations
 
 (\* - upcoming)
 
++--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2025   | **Chang, N.,** A. Carmichael, E. Baldwin, J. Leebens-Mack, E.E.D. Coffey, & L. Eserman-Campbell. Species delimitation in the *Sarracenia rubra* species complex to inform conservation actions. Botany 2025. Palm Springs, CA. Oral presentation.                                                                       |
+|        |                                                                                                                                                                                                                                                                                                                         |
+|        | **Chang, N.,** A. Carmichael, & L. Eserman-Campbell. Species delimitation in the *Sarracenia rubra* species complex to inform conservation actions. Center for Plant Conservation. St. Louis, MO. Poster presentation.                                                                                                  |
 +--------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 2024   | **Chang, N.,** A. Carmichael, & L. Eserman-Campbell. Investigating genetic diversity and species delimitation across the *Sarracenia rubra* species complex to inform *ex situ* conservation and reintroductions. Southeastern Partners in Plant Conservation (SePPCon). Atlanta, GA. Poster presentation.              |
 |        |                                                                                                                                                                                                                                                                                                                         |
@@ -121,6 +133,8 @@ title: "CV"
 ## Service & Leadership
 
 +------------+----------------------------------------------------------------------------------------+
+| 2023-2024  | **Waffle Wednesdays Co-Czar,** Dept. of Env. Sciences, Emory University                |
++------------+----------------------------------------------------------------------------------------+
 | 2022-2024  | **Diversity, Equity, & Inclusion Committee,** Dept. of Env. Sciences, Emory University |
 +------------+----------------------------------------------------------------------------------------+
 | 2022-2024  | **Peer Mentor,** Dept. of Environmental Sciences, Emory University                     |
@@ -141,6 +155,8 @@ title: "CV"
 
 ## Honors & Awards
 
++-----------+--------------------------------------------------------------------------------------------------+
+| 2025      | **Honorable Mention - NSF GRFP,** National Science Foundation                                    |
 +-----------+--------------------------------------------------------------------------------------------------+
 | 2024      | **Boisfeuillet Jones Medal for Servant Leadership,** Emory University                            |
 |           |                                                                                                  |
@@ -175,8 +191,10 @@ title: "CV"
 
 -   **Field Skills:** Plant identification; amphibian surveys; incremental soil sampling
 
--   **Technical Skills:** R, ArcGIS Pro, XRF spectrometry, spectrophotometry, titration, respirometry
+-   **Software:** R, ArcGIS Pro
+
+-   **Laboratory Skills:** DNA isolation, genomic library preparation, qPCR, XRF spectrometry, spectrophotometry, titration, respirometry
 
 -   **Languages:** Classical Latin (proficient), German (novice), Middle Egyptian (novice)
 
--   **Interests:** Ancient Mediterranean history, crosswords, camping, climbing, horticulture, aquaria
+-   **Interests:** Hiking, camping, horticulture, aquaria, photography

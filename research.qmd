@@ -6,9 +6,11 @@ title: "Research"
 
 **Southeastern Center for Conservation / Atlanta Botanical Garden**
 
-*Advisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael*
+*Supervisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael*
 
-As a current NSF RaMP Trainee, I am studying species delimitation in the *Sarracenia rubra* species complex, an taxonomically unresolved group of North American pitcher plants. This group includes three federally-listed Endangered taxa and two subspecies petitioned for listing under the Endangered Species Act. I am isolating DNA from plants in ABG's conservation safeguarding collection and local herbaria, then using whole genome sequencing to study phylogenomic relationships in this species complex. I am further supporting these phylogenomic analyses with assessments of environmental niche differentiation using environmental data, as well as morphometrics from plants grown in a common garden at the ABG Conservation Safeguarding Nursery. 
+As a current NSF RaMP Trainee, I am studying species delimitation in the *Sarracenia rubra* species complex, an taxonomically unresolved group of North American pitcher plants. This group includes three federally-listed Endangered taxa and two subspecies petitioned for listing under the Endangered Species Act. I am isolating DNA from plants in ABG's conservation safeguarding collection and local herbaria, then using whole genome sequencing to study phylogenomic relationships in this species complex.
+
+In addition to my phylogenomic work, I am using ecological niche models to assess patterns of niche overlap and climate vulnerability in two imperiled, narrowly-sympatric montane *Sarracenia*.
 
 ![Wherry's Pitcher Plant (*Sarracenia alabamensis* ssp. *wherryi*). ABG Conservation Collections.](images/IMG_4661-01.jpeg)
 
@@ -30,7 +32,6 @@ I am currently working with staff at Emory University and AG Rhodes to digitize 
 
 For my Honors Thesis, I am currently conducting a study evaluating the abundance and distribution of the Talladega seal salamander (*Desmognathus cheaha*) across a series of streams in northeast Atlanta. The primary focus of this project to is to characterize microhabitat use in *D, cheaha* and explore whether microhabitat partitioning occurs between *D. cheaha* and other members of the streambank plethodontid assemblage. In addition, I am using both field and raster data to characterize streams and their watersheds, and to explore patterns in *D. cheaha* abundance, particularly along an urbanizing gradient.
 
-
 ![Talladega seal salamander (*Desmognathus cheaha)*, DeKalb Co., GA](images/Desmognathus_cheaha_2023-12-03.JPG)
 
 ## Climate Stressors, Ecophysiology, and Farmed Pacific Oysters (*Crassostrea gigas*)
@@ -41,7 +42,6 @@ For my Honors Thesis, I am currently conducting a study evaluating the abundance
 
 During the summer of 2023, I worked with the NOAA NWFSC Ocean Acidification Lab and the University of Washington's School of Aquatic & Fishery Sciences studying spatial variation in the physiology of diploid and triploid Pacific oysters (*Crassostrea gigas*). I performed respirometry trials on diploid, mated triploid, and chemically-induced triploid oysters that had been outplanted at various locations in the Puget Sound. I also collected environmental data from each site, and used titration and spectrophotometric pH measurements to characterize the carbonate chemistry systems of these areas, to determine the role of environmental variables in stress responses.\
 \
-
 
 ![Farmed Pacific oysters (*Crassostrea gigas*), Puget Sound, WA](images/Crassostrea_gigas_06-09-2023.JPG)
 
