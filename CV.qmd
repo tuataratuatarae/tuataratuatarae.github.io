@@ -29,7 +29,7 @@ title: "CV"
 ## Research Experience
 
 +-------------------+--------------------------------------------------------------------------------------------------------------------+
-| Jul. 2024-present | **NSF Rare Plant RaMP Trainee,** Atlanta Botanical Garden                                                          |
+| Jul. 2024-present | **Postbaccalaureate Research Fellow (NSF Rare Plant RaMP),** Atlanta Botanical Garden                              |
 |                   |                                                                                                                    |
 |                   | Advisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael                                                           |
 |                   |                                                                                                                    |
@@ -79,7 +79,7 @@ title: "CV"
 |        |                                                                                                                                                                                                                                                                                                                         |
 |        | **Chang, N.,** W. Hutchinson, & C. Keogh. Microhabitat utilization of the Talladega Seal Salamander (*Desmognathus cheaha*) and spatial niche partitioning with a co-occurring congener. Ecological Society of America. Long Beach, CA. Poster presentation.                                                            |
 |        |                                                                                                                                                                                                                                                                                                                         |
-|        | **Chang, N.,** W. Hutchinson, & C. Keogh. Patterns in habitat use of the newly-described Talladega seal salamander (*Desmognathus cheaha).* Southeastern Partners in Amphibian & Reptile Conservation. Nauvoo, AL. Speed Talk. [*Winner, Best Student/Early Career Speed Talk.*]{.underline}                            |
+|        | **Chang, N.,** W. Hutchinson, & C. Keogh. Patterns in habitat use of the newly-described Talladega seal salamander (*Desmognathus cheaha).* Southeastern Partners in Amphibian & Reptile Conservation. Nauvoo, AL. Speed Talk. [*Winner, **Best Student/Early Career Speed Talk.***]{.underline}                        |
 |        |                                                                                                                                                                                                                                                                                                                         |
 |        | **Chang, N.,** K. Jackson, P. McElhany, S. Busch, & C. Norrie. Physiological responses of Pacific oysters (*Crassostrea gigas*) of different ploidy groups to spatial variation in environmental conditions. Ocean Sciences Meeting. New Orleans, LA. Poster presentation.                                              |
 |        |                                                                                                                                                                                                                                                                                                                         |
@@ -102,8 +102,6 @@ title: "CV"
 | 2021    | **Chang, N.,** C.K. Maki, & J. Wegner. A survey of Agrilus planipennis in Emory University's campus forests. Emory University Office of Sustainability Initiatives Incentives Fund. **\$1,050.**                                                                  |
 |         |                                                                                                                                                                                                                                                                   |
 |         | Maki, C.K., N. Chang, & J. Wegner. Native Pollinator Garden and Campus Reforestation. Emory University Office of Sustainability Initiatives Incentives Fund. **\$2,200.**                                                                                         |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2020    | **Chang, N.** & J. Horvath. Regreening Complex's Green Roof. Emory University Office of Sustainability Initiatives Incentives Fund. **\$300.**                                                                                                                    |
 +---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Teaching Experience
@@ -152,6 +150,12 @@ title: "CV"
 +------------+----------------------------------------------------------------------------------------+
 | 2021-2022  | **Organizing Committee,** Symposium on Biological Diversity, Emory University          |
 +------------+----------------------------------------------------------------------------------------+
+
+## Continuing Education & Professional Development
+
++-----------+----------------------------------------------------------------------------------------------+
+| 2025      | **IUCN Red List Assessor Certification,** International Union for the Conservation of Nature |
++-----------+----------------------------------------------------------------------------------------------+
 
 ## Honors & Awards
 

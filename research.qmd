@@ -1,58 +1,27 @@
 ---
 title: "Research"
+format: html
+editor: visual
 ---
 
-## Conservation Genetics, Species Delimitation, and Biogeography of North American Pitcher Plants in the *Sarracenia rubra* species complex
+# Research Themes
 
-**Southeastern Center for Conservation / Atlanta Botanical Garden**
+## Conservation Phylogenetics and Species Delimitation
 
-*Supervisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael*
+Understanding the true number of species on earth is key to evaluating which species merit conservation protections. However, despite the importance of species as management units, there are many highly debated species complexes where the true number of species is not known. By pairing phylogenetic and complementary geospatial and morphological approaches, we can better estimate the true number of species and understand how vulnerable each one is to land use or climage change.
 
-As a current NSF RaMP Trainee, I am studying species delimitation in the *Sarracenia rubra* species complex, an taxonomically unresolved group of North American pitcher plants. This group includes three federally-listed Endangered taxa and two subspecies petitioned for listing under the Endangered Species Act. I am isolating DNA from plants in ABG's conservation safeguarding collection and local herbaria, then using whole genome sequencing to study phylogenomic relationships in this species complex.
+-   Species delimitation of imperiled North American pitcher plants (*Sarracenia rubra* species complex) at the Atlanta Botanical Garden
 
-In addition to my phylogenomic work, I am using ecological niche models to assess patterns of niche overlap and climate vulnerability in two imperiled, narrowly-sympatric montane *Sarracenia*.
+-   Species delimitation of North American bristleberries (*Rubus* sect. *Setosi*) at the University of Minnesota
 
-![Wherry's Pitcher Plant (*Sarracenia alabamensis* ssp. *wherryi*). ABG Conservation Collections.](images/IMG_4661-01.jpeg)
+## Biogeography, Climate Change, and Ecological Niche Modeling
 
-## Natural History and Conservation of American Starvine (*Schisandra glabra*)
+## Natural History of Uncommon and Imperiled Species
 
-**Dept. of Environmental Sciences / Emory University**
+Fundamental natural history information is critical for guiding conservation and management strategies for rare species.
 
-*Advisors: Carl Brown, Kirk Hines HTR*
+-   Natural history and phenology of American Starvine at Emory University
 
-I am currently working with staff at Emory University and AG Rhodes to digitize a seven-year phenology dataset for American Starvine (*Schisandra glabra*), an imperiled vine native to the Southeastern US and Hidalgo, Mexico. In addition, I have previously mapped known populations at a field site and developed habitat suitability models for a technical report for resource managers.
+-   Microhabitat utilization of the Talladega Seal Salamander at Emory University
 
-![American Starvine (*Schisandra glabra*). DeKalb Co., GA. Photo: Nick Chang.](images/A3677804-7500-43CB-B086-56AC94ACCB65.jpeg)
-
-## Habitat Use and Community Dynamics of the Talladega Seal Salamander (*Desmognathus cheaha*)
-
-**Department of Environmental Sciences / Emory University**
-
-*Advisor: Dr. Carolyn Keogh*
-
-For my Honors Thesis, I am currently conducting a study evaluating the abundance and distribution of the Talladega seal salamander (*Desmognathus cheaha*) across a series of streams in northeast Atlanta. The primary focus of this project to is to characterize microhabitat use in *D, cheaha* and explore whether microhabitat partitioning occurs between *D. cheaha* and other members of the streambank plethodontid assemblage. In addition, I am using both field and raster data to characterize streams and their watersheds, and to explore patterns in *D. cheaha* abundance, particularly along an urbanizing gradient.
-
-![Talladega seal salamander (*Desmognathus cheaha)*, DeKalb Co., GA](images/Desmognathus_cheaha_2023-12-03.JPG)
-
-## Climate Stressors, Ecophysiology, and Farmed Pacific Oysters (*Crassostrea gigas*)
-
-**Northwest Fisheries Science Center / National Marine Fisheries Service / NOAA**
-
-*Advisors: Dr. Craig Norrie, Dr. Paul McElhany, Dr. Shallin Busch*
-
-During the summer of 2023, I worked with the NOAA NWFSC Ocean Acidification Lab and the University of Washington's School of Aquatic & Fishery Sciences studying spatial variation in the physiology of diploid and triploid Pacific oysters (*Crassostrea gigas*). I performed respirometry trials on diploid, mated triploid, and chemically-induced triploid oysters that had been outplanted at various locations in the Puget Sound. I also collected environmental data from each site, and used titration and spectrophotometric pH measurements to characterize the carbonate chemistry systems of these areas, to determine the role of environmental variables in stress responses.\
-\
-
-![Farmed Pacific oysters (*Crassostrea gigas*), Puget Sound, WA](images/Crassostrea_gigas_06-09-2023.JPG)
-
-## Heavy Metal Contamination, Urban Streams, and Environmental Justice in Atlanta
-
-**Saikawa Laboratory / Department of Environmental Sciences / Emory University**
-
-*Advisor: Dr. Eri Saikawa*
-
-From 2021 to 2022, I worked in Eri Saikawa's lab on a community-based participatory research project studying residential soil lead contamination and lead poisoning in children. As a part of this project, I participated in soil sampling efforts at participants' homes within the Westside Atlanta Superfund Site boundary. I also led the processing and analysis of these samples using x-ray fluorescence spectrometry, and managed the disposal of contaminated samples after analysis.\
-\
-During the summer of 2022, I participated in the [Summer Undergraduate Research Experience (SURE)](https://college.emory.edu/undergraduate-research/summer/index.html) program at Emory to analyze slag and sediment samples from streams in the metro-Atlanta area to identify areas of concern for heavy metal contamination.
-
-![South River Headwaters, East Point, GA](images/South_River_headwaters_15-06-2022.JPG)
+## Causes and Consequences of Species Rarity

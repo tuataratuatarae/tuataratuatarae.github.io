@@ -1,0 +1,37 @@
+---
+title: "Past Projects"
+format: html
+editor: visual
+---
+
+## Habitat Use and Community Dynamics of the Talladega Seal Salamander (*Desmognathus cheaha*)
+
+**Department of Environmental Sciences / Emory University**
+
+*Advisor: Dr. Carolyn Keogh*
+
+For my Honors Thesis, I am currently conducting a study evaluating the abundance and distribution of the Talladega seal salamander (*Desmognathus cheaha*) across a series of streams in northeast Atlanta. The primary focus of this project to is to characterize microhabitat use in *D, cheaha* and explore whether microhabitat partitioning occurs between *D. cheaha* and other members of the streambank plethodontid assemblage. In addition, I am using both field and raster data to characterize streams and their watersheds, and to explore patterns in *D. cheaha* abundance, particularly along an urbanizing gradient.
+
+![Talladega seal salamander (*Desmognathus cheaha)*, DeKalb Co., GA](images/Desmognathus_cheaha_2023-12-03.JPG){alt="Talladega seal salamander (Desmognathus cheaha), DeKalb Co., GA"}
+
+## Climate Stressors, Ecophysiology, and Farmed Pacific Oysters (*Crassostrea gigas*)
+
+**Northwest Fisheries Science Center / National Marine Fisheries Service / NOAA**
+
+*Advisors: Dr. Craig Norrie, Dr. Paul McElhany, Dr. Shallin Busch*
+
+During the summer of 2023, I worked with the NOAA NWFSC Ocean Acidification Lab and the University of Washington's School of Aquatic & Fishery Sciences studying spatial variation in the physiology of diploid and triploid Pacific oysters (*Crassostrea gigas*). I performed respirometry trials on diploid, mated triploid, and chemically-induced triploid oysters that had been outplanted at various locations in the Puget Sound. I also collected environmental data from each site, and used titration and spectrophotometric pH measurements to characterize the carbonate chemistry systems of these areas, to determine the role of environmental variables in stress responses.\
+
+![Farmed Pacific oysters (*Crassostrea gigas*), Puget Sound, WA](images/Crassostrea_gigas_06-09-2023.JPG){alt="Farmed Pacific oysters (Crassostrea gigas), Puget Sound, WA"}
+
+## Heavy Metal Contamination, Urban Streams, and Environmental Justice in Atlanta
+
+**Saikawa Laboratory / Department of Environmental Sciences / Emory University**
+
+*Advisor: Dr. Eri Saikawa*
+
+From 2021 to 2022, I worked in Eri Saikawa's lab on a community-based participatory research project studying residential soil lead contamination and lead poisoning in children. As a part of this project, I participated in soil sampling efforts at participants' homes within the Westside Atlanta Superfund Site boundary. I also led the processing and analysis of these samples using x-ray fluorescence spectrometry, and managed the disposal of contaminated samples after analysis.\
+\
+During the summer of 2022, I participated in the [Summer Undergraduate Research Experience (SURE)](https://college.emory.edu/undergraduate-research/summer/index.html) program at Emory to analyze slag and sediment samples from streams in the metro-Atlanta area to identify areas of concern for heavy metal contamination.
+
+![South River Headwaters, East Point, GA](images/South_River_headwaters_15-06-2022.JPG){alt="South River Headwaters, East Point, GA"}
