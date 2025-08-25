@@ -2,12 +2,12 @@
 title: "About"
 ---
 
-My name is Nick and I'm a recent graduate from Emory University! I am broadly interested in ecology, biogeography and conservation biology, and while I am open to work in a variety of ecosystems, I have the most experience working in forests, freshwater streams, and coastal areas. I'm super stoked about amphibians, plants, and aquatic invertebrates, but I have been gradually expanding my horizons into different taxa (big fan of woodpeckers these days).
+My name is Nick and I'm currently a PhD student at the University of Minnesota! I am interested in using genomic, geospatial, and ecological tools to advance the conservation of North America's rare plants. My doctoral research will use population genetics, molecular systematics, and niche modeling to inform the management of Minnesota's imperiled wild blackberries (*Rubus sp.*). My previous work has involved amphibians, pitcher plants, and oysters in both natural and human-dominated contexts. 
 
 In addition to my scientific interests, I am passionate about leveraging field courses and community-engaged learning to connect students with applied questions in ecology and improve inclusivity and sense of belonging in undergraduate cohorts. As an undergrad, I participated in the Ecological Society of America's SEEDS program, which has had a huge impact on me and other students.
 
-Outside of the classroom/lab, I enjoy hiking, camping, climbing, and photographing salamanders and wildflowers.
+Outside of the classroom/lab, I enjoy hiking, camping, growing unusual plants, aquarium keeping, and photographing salamanders and wildflowers.
 
-You can reach me at nicholas.chang\@alumni.emory.edu
+You can reach me at chan2624\@umn.edu
 
 ![*Trillium vaseyi* from Rabun Bald, GA](images/Trillium_vaseyi_2023-04-29.JPG){fig-align="center" width="667"}
