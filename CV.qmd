@@ -27,44 +27,32 @@ title: "CV"
 +--------------+--------------------------------------------------------------------------------------------------------------------+
 | 2025-present | **Graduate Research Assistant,** University of Minnesota                                                           |
 |              |                                                                                                                    |
-|              | Advisor: Ya Yang                                                                                                   |
-|              |                                                                                                                    |
 |              | Conservation genomics of imperiled bristleberries (*Rubus* sect. *Setosi*)                                         |
 +--------------+--------------------------------------------------------------------------------------------------------------------+
 | 2024-2025    | **Research Technician (NSF Rare Plant RaMP),** Atlanta Botanical Garden                                            |
-|              |                                                                                                                    |
-|              | Advisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael                                                           |
 |              |                                                                                                                    |
 |              | Phylogenomics to inform species delimitation in the *Sarracenia rubra* complex                                     |
 +--------------+--------------------------------------------------------------------------------------------------------------------+
 | 2022-2024    | **Undergraduate Honors Researcher,** Emory University                                                              |
 |              |                                                                                                                    |
-|              | Advisor: Dr. Carolyn Keogh                                                                                         |
-|              |                                                                                                                    |
 |              | Habitat use and community ecology in the newly-described Talladega seal salamander (*Desmognathus cheaha*)         |
 +--------------+--------------------------------------------------------------------------------------------------------------------+
 | May-Aug 2023 | **Hollings Scholar,** Northwest Fisheries Science Center, NOAA/UW SAFS                                             |
-|              |                                                                                                                    |
-|              | Advisors: Drs. Craig Norrie, Paul McElhany, & Shallin Busch                                                        |
 |              |                                                                                                                    |
 |              | Physiological responses of diploid and triploid farmed Pacific oysters (*Crassostrea gigas*) to climate stressors. |
 +--------------+--------------------------------------------------------------------------------------------------------------------+
 | 2021-2022    | **Undergraduate Researcher**, Saikawa Laboratory, Emory University                                                 |
 |              |                                                                                                                    |
-|              | Advisor: Dr. Eri Saikawa                                                                                           |
-|              |                                                                                                                    |
 |              | Soil and stream sediment contamination in the metro-Atlanta area                                                   |
 +--------------+--------------------------------------------------------------------------------------------------------------------+
 | 2021-2022    | **Undergraduate Researcher,** Dept. of ENVS, Emory University                                                      |
-|              |                                                                                                                    |
-|              | Advisor: Dr. John Wegner                                                                                           |
 |              |                                                                                                                    |
 |              | Salamander diversity in university forests and updates to the Emory Forest Management Plan                         |
 +--------------+--------------------------------------------------------------------------------------------------------------------+
 
 ## Publications
 
-**Chang, N.,** W. Hutchinson, & C. Keogh. *In press.* Microhabitat use of the Talladega Seal Salamander (*Desmognathus cheaha*) and spatial niche partitioning with a congener in metro-Atlanta headwater streams. *Herpetological Conservation & Biology* 20(2):213-228.
+**Chang, N.,** W. Hutchinson, & C. Keogh. 2025*.* Microhabitat use of the Talladega Seal Salamander (*Desmognathus cheaha*) and spatial niche partitioning with a congener in metro-Atlanta headwater streams. *Herpetological Conservation & Biology* 20(2):213-228. \[[PDF](https://www.herpconbio.org/Volume_20/Issue_2/Chang_etal_2025.pdf)\].
 
 [Preprints]{.underline}
 
