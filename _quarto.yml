@@ -10,9 +10,8 @@ website:
         text: Home
       - about.qmd
       - CV.qmd
-      - research.qmd
-       - current_projects.qmd
-       - past_projects.qmd
+      - current_projects.qmd
+      - past_projects.qmd
     tools: 
       - icon: github
         href: https://github.com/tuataratuatarae
