@@ -66,6 +66,10 @@ title: "CV"
 
 **Chang, N.,** W. Hutchinson, & C. Keogh. *In press.* Microhabitat use of the Talladega Seal Salamander (*Desmognathus cheaha*) and spatial niche partitioning with a congener in metro-Atlanta headwater streams. *Herpetological Conservation & Biology* 20(2):213-228.
 
+[Preprints]{.underline}
+
+**Chang, N.J.,** L. Eserman-Campbell, A. Carmichael, A.B. Smith, X. Loy, E.E.D. Coffey, & J. Ojcascastro. Ecological niche modeling reveals niche differentiation and climate vulnerability in two imperiled, sympatric Southern Appalachian carnivorous plants. bioRxiv. doi: 10.1101/2025.10.30.685572. In revision for *American Journal of Botany*.
+
 ## Selected Presentations
 
 (\* - upcoming)
@@ -102,12 +106,18 @@ title: "CV"
 
 ## Teaching Experience
 
+### Graduate Teaching Assistantships
+
++----------------+--------------------------------------------------------+
+| Spring 2025    | Flowering Plant Diversity/World Flora (PMB4511). UMN.  |
++----------------+--------------------------------------------------------+
+
 ### Teaching Assistantships
 
 +---------------+----------------------------------------------------------+
-| Jan-May 2023  | Field Botany (ENVS341). Emory University.                |
+| Spring 2023   | Field Botany (ENVS341). Emory University.                |
 +---------------+----------------------------------------------------------+
-| Aug-Dec 2022  | Intro to ENVS Field Studies (ENVS131). Emory University. |
+| Fall 2022     | Intro to ENVS Field Studies (ENVS131). Emory University. |
 +---------------+----------------------------------------------------------+
 
 ## Other Work Experience
@@ -149,11 +159,11 @@ title: "CV"
 
 ## Continuing Education & Professional Development
 
-+-----------+----------------------------------------------------------------------------------------------+
-| 2025      | **Applied Plant Conservation Course,** Center for Plant Conservation                         |
-+-----------+----------------------------------------------------------------------------------------------+
-| 2025      | **IUCN Red List Assessor Certification,** International Union for the Conservation of Nature |
-+-----------+----------------------------------------------------------------------------------------------+
++------------+----------------------------------------------------------------------------------------------+
+| 2025       | **Applied Plant Conservation Course,** Center for Plant Conservation                         |
++------------+----------------------------------------------------------------------------------------------+
+| 2025       | **IUCN Red List Assessor Certification,** International Union for the Conservation of Nature |
++------------+----------------------------------------------------------------------------------------------+
 
 ## Honors & Awards
 

@@ -2,15 +2,25 @@
 title: "Current Projects"
 ---
 
-## Conservation Genetics, Species Delimitation, and Biogeography of North American Pitcher Plants in the *Sarracenia rubra* species complex
+## Systematics and Conservation Genomics of Imperiled Wild Blackberries (*Rubus* sect. *Setosi*)
+
+**Department of Ecology, Evolution, and Behavior / University of Minnesota**
+
+*Advisor: Dr. Ya Yang*
+
+As a graduate student at the University of Minnesota, I am studying the evolution, conservation genomics, and biogeography of a unique group of morphologically cryptic, peatland-associated wild blackberries (*Rubus* sect. *Setosi*). This group is distributed across the Great Lakes region, but there has been much debate over how many taxa actually occur in this group. *Rubus* are difficult to study due to the prevalence of hybridization, polyploidization, and apomixis across the evolutionary history of the genus.
+
+As a part of my dissertation, I plan to assess patterns of population genomic structure for listed *Rubus* species in Minnesota and use niche modeling to assess climate vulnerability. I also aim to use morphological, genomic, and ecological approaches to offer an improved estimate of the number and distribution of species in this group. Finally, I'm hoping to use the evolution of *Rubus* subg. *Rubus* (which contains sect. *Setosi*) to ask questions about macroevolutionary patterns driving patterns of species rarity.
+
+## Conservation Genomics, Species Delimitation, and Biogeography of North American Pitcher Plants in the *Sarracenia rubra* species complex
 
 **Southeastern Center for Conservation / Atlanta Botanical Garden**
 
-*Supervisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael*
+*Supervisors: Dr. Lauren Eserman-Campbell, Amanda Carmichael, Dr. James Ojascastro*
 
-As a current NSF RaMP Trainee, I am studying species delimitation in the *Sarracenia rubra* species complex, an taxonomically unresolved group of North American pitcher plants. This group includes three federally-listed Endangered taxa and two subspecies petitioned for listing under the Endangered Species Act. I am isolating DNA from plants in ABG's conservation safeguarding collection and local herbaria, then using whole genome sequencing to study phylogenomic relationships in this species complex.
+As an NSF RaMP Trainee, I examined species delimitation in the *Sarracenia rubra* species complex, a taxonomically unresolved group of North American pitcher plants. This group includes three federally-listed Endangered taxa and two subspecies petitioned for listing under the Endangered Species Act. I am isolating DNA from plants in ABG's conservation safeguarding collection and local herbaria, then using whole genome sequencing to study phylogenomic relationships in this species complex.
 
-In addition to my phylogenomic work, I am using ecological niche models to assess patterns of niche overlap and climate vulnerability in two imperiled, narrowly-sympatric montane *Sarracenia*.
+In addition to my phylogenomic work, I used ecological niche models to assess patterns of niche overlap and climate vulnerability in two imperiled, narrowly-sympatric montane *Sarracenia*.
 
 ![Wherry's Pitcher Plant (*Sarracenia alabamensis* ssp. *wherryi*). ABG Conservation Collections.](images/IMG_4661-01.jpeg)
 
@@ -18,9 +28,9 @@ In addition to my phylogenomic work, I am using ecological niche models to asses
 
 **Dept. of Environmental Sciences / Emory University**
 
-*Advisors: Carl Brown, Kirk Hines HTR*
+*Collaborators: Carl Brown, Kirk Hines HTR*
 
-I am currently working with staff at Emory University and AG Rhodes to digitize a seven-year phenology dataset for American Starvine (*Schisandra glabra*), an imperiled vine native to the Southeastern US and Hidalgo, Mexico. In addition, I have previously mapped known populations at a field site and developed habitat suitability models for a technical report for resource managers.
+I maintain a working relationship with staff at Emory University and AG Rhodes to digitize a 20-year phenology dataset for American Starvine (*Schisandra glabra*), an imperiled vine native to the Southeastern US and Hidalgo, Mexico. In addition, I have previously mapped known populations at a field site and developed habitat suitability models for a technical report for resource managers.
 
 ![American Starvine (*Schisandra glabra*). DeKalb Co., GA. Photo: Nick Chang.](images/A3677804-7500-43CB-B086-56AC94ACCB65.jpeg)
 
