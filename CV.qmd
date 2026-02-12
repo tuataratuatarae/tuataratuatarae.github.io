@@ -25,7 +25,7 @@ title: "CV"
 ## Research Experience
 
 +--------------+--------------------------------------------------------------------------------------------------------------------+
-| 2025-present | **Graduate Research Assistant,** University of Minnesota                                                           |
+| 2025-present | **Graduate Research and Teaching Assistant,** University of Minnesota                                              |
 |              |                                                                                                                    |
 |              | Conservation genomics of imperiled bristleberries (*Rubus* sect. *Setosi*)                                         |
 +--------------+--------------------------------------------------------------------------------------------------------------------+
@@ -80,25 +80,25 @@ title: "CV"
 
 ## Grants & Funding
 
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2024    | **Chang, N.** Broadening participation in herp conservation: funding for an undergraduate cohort to attend the 2024 Southeastern Partners in Amphibian & Reptile Conservation meeting. Emory University Dept. of Env. Sciences James G. Lester Fund. **\$3,349.** |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2023    | Chen, I., **N. Chang,** & C. Keogh. Okefenokee As Place: Weekend Field Trip to the Okefenokee National Wildlife Refuge. Ecological Society of America SEEDS Chapter Grant. **\$970.**                                                                             |
-|         |                                                                                                                                                                                                                                                                   |
-|         | **Chang, N.** & C. Keogh. Investigating habitat use and community dynamics of *Desmognathus sp*. Salamanders in an urban landscape. Emory University Department of Environmental Sciences James G. Lester Fund. **\$1,359.76**                                    |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2021    | **Chang, N.,** C.K. Maki, & J. Wegner. A survey of Agrilus planipennis in Emory University's campus forests. Emory University Office of Sustainability Initiatives Incentives Fund. **\$1,050.**                                                                  |
-|         |                                                                                                                                                                                                                                                                   |
-|         | Maki, C.K., N. Chang, & J. Wegner. Native Pollinator Garden and Campus Reforestation. Emory University Office of Sustainability Initiatives Incentives Fund. **\$2,200.**                                                                                         |
-+---------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2024    | Broadening participation in herp conservation: funding for an undergraduate cohort to attend the 2024 Southeastern Partners in Amphibian & Reptile Conservation meeting. Emory University Dept. of Env. Sciences James G. Lester Fund. **\$3,349.** |
++---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2023    | Okefenokee As Place: Weekend Field Trip to the Okefenokee National Wildlife Refuge. Ecological Society of America SEEDS Chapter Grant. In collaboration with Iris Chen and Carrie Keogh. **\$970.**                                                 |
+|         |                                                                                                                                                                                                                                                     |
+|         | Investigating habitat use and community dynamics of *Desmognathus sp*. salamanders in an urban landscape. Emory University Department of Environmental Sciences James G. Lester Fund. Advisor: Carrie Keogh. **\$1,359.76**                         |
++---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2021    | A survey of Emerald Ash Borers (*Agrilus planipennis*) in Emory University's campus forests. Emory University Office of Sustainability Initiatives Incentives Fund. In collaboration with Caroline Maki. **\$1,050.**                               |
+|         |                                                                                                                                                                                                                                                     |
+|         | Native Pollinator Garden and Campus Reforestation. Emory University Office of Sustainability Initiatives Incentives Fund. In collaboration with Caroline Maki. **\$2,200.**                                                                         |
++---------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Teaching Experience
 
 ### Graduate Teaching Assistantships
 
-+----------------+--------------------------------------------------------+
-| Spring 2025    | Flowering Plant Diversity/World Flora (PMB4511). UMN.  |
-+----------------+--------------------------------------------------------+
++----------------+-------------------------------------------------------+
+| Spring 2025    | Flowering Plant Diversity/World Flora (PMB4511). UMN. |
++----------------+-------------------------------------------------------+
 
 ### Teaching Assistantships
 
@@ -124,26 +124,28 @@ title: "CV"
 
 ## Service & Leadership
 
-+------------+----------------------------------------------------------------------------------------+
-| 2023-2024  | **Waffle Wednesdays Co-Czar,** Dept. of Env. Sciences, Emory University                |
-+------------+----------------------------------------------------------------------------------------+
-| 2022-2024  | **Diversity, Equity, & Inclusion Committee,** Dept. of Env. Sciences, Emory University |
-+------------+----------------------------------------------------------------------------------------+
-| 2022-2024  | **Peer Mentor,** Dept. of Environmental Sciences, Emory University                     |
-+------------+----------------------------------------------------------------------------------------+
-| 2021-2024  | **University Senate Committee on the Environment,** Emory University                   |
-|            |                                                                                        |
-|            | -   Co-Chair, Forest Management Subcommittee (2022-2024)                               |
-|            | -   Undergraduate Representative (2021-2024)                                           |
-+------------+----------------------------------------------------------------------------------------+
-| 2020-2024  | **Founder & Executive Board,** Emory Ecological Society (ESA SEEDS Chapter)            |
-+------------+----------------------------------------------------------------------------------------+
-| 2022-2023  | **University Climate Action & Resilience Task Force,** Emory University                |
-+------------+----------------------------------------------------------------------------------------+
-| 2021-2023  | **Forest Restoration Volunteer,** Fernbank Museum of Natural History                   |
-+------------+----------------------------------------------------------------------------------------+
-| 2021-2022  | **Organizing Committee,** Symposium on Biological Diversity, Emory University          |
-+------------+----------------------------------------------------------------------------------------+
++--------------+----------------------------------------------------------------------------------------+
+| 2025-present | **Volunteer,** University of Minnesota Conservatory & Botanical Collection             |
++--------------+----------------------------------------------------------------------------------------+
+| 2023-2024    | **Waffle Wednesdays Co-Czar,** Dept. of Env. Sciences, Emory University                |
++--------------+----------------------------------------------------------------------------------------+
+| 2022-2024    | **Diversity, Equity, & Inclusion Committee,** Dept. of Env. Sciences, Emory University |
++--------------+----------------------------------------------------------------------------------------+
+| 2022-2024    | **Peer Mentor,** Dept. of Environmental Sciences, Emory University                     |
++--------------+----------------------------------------------------------------------------------------+
+| 2021-2024    | **University Senate Committee on the Environment,** Emory University                   |
+|              |                                                                                        |
+|              | -   Co-Chair, Forest Management Subcommittee (2022-2024)                               |
+|              | -   Undergraduate Representative (2021-2024)                                           |
++--------------+----------------------------------------------------------------------------------------+
+| 2020-2024    | **Founder & Executive Board,** Emory Ecological Society (ESA SEEDS Chapter)            |
++--------------+----------------------------------------------------------------------------------------+
+| 2022-2023    | **University Climate Action & Resilience Task Force,** Emory University                |
++--------------+----------------------------------------------------------------------------------------+
+| 2021-2023    | **Forest Restoration Volunteer,** Fernbank Museum of Natural History                   |
++--------------+----------------------------------------------------------------------------------------+
+| 2021-2022    | **Organizing Committee,** Symposium on Biological Diversity, Emory University          |
++--------------+----------------------------------------------------------------------------------------+
 
 ## Continuing Education & Professional Development
 
