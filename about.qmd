@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-My name is Nick and I'm currently a PhD student at the University of Minnesota! I am interested in using genomic, geospatial, and ecological tools to advance the conservation of North America's rare plants. My doctoral research will use population genetics, molecular systematics, and niche modeling to inform the management of Minnesota's imperiled wild blackberries (*Rubus sp.*). My previous work has involved amphibians, pitcher plants, and oysters in both natural and human-dominated contexts. 
+My name is Nick and I'm currently a PhD student in [Ya Yang's lab](https://www.yangya.org) at the University of Minnesota! I am interested in using genomic, geospatial, and ecological tools to advance the conservation of North America's rare plants. My doctoral research will use population genetics, molecular systematics, and niche modeling to inform the management of Minnesota's imperiled wild blackberries (*Rubus sp.*). My previous work has involved amphibians, pitcher plants, and oysters in both natural and human-dominated contexts.
 
 In addition to my scientific interests, I am passionate about leveraging field courses and community-engaged learning to connect students with applied questions in ecology and improve inclusivity and sense of belonging in undergraduate cohorts. As an undergrad, I participated in the Ecological Society of America's SEEDS program, which has had a huge impact on me and other students.
 

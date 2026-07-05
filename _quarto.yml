@@ -8,10 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - CV.qmd
-      - current_projects.qmd
-      - past_projects.qmd
+      - text: Research
+        menu: 
+          - current_projects.qmd
+          - past_projects.qmd
     tools: 
       - icon: github
         href: https://github.com/tuataratuatarae

@@ -6,22 +6,26 @@ editor: visual
 
 # Research Themes
 
-## Conservation Phylogenetics and Species Delimitation
+## Conservation Genomics and 
 
 Understanding the true number of species on earth is key to evaluating which species merit conservation protections. However, despite the importance of species as management units, there are many highly debated species complexes where the true number of species is not known. By pairing phylogenetic and complementary geospatial and morphological approaches, we can better estimate the true number of species and understand how vulnerable each one is to land use or climage change.
 
--   Species delimitation of imperiled North American pitcher plants (*Sarracenia rubra* species complex) at the Atlanta Botanical Garden
+- Species delimitation of imperiled North American pitcher plants (*Sarracenia rubra* species complex) at the Atlanta Botanical Garden
 
--   Species delimitation of North American bristleberries (*Rubus* sect. *Setosi*) at the University of Minnesota
+- Species delimitation of North American bristleberries (*Rubus* sect. *Setosi*) at the University of Minnesota
 
 ## Biogeography, Climate Change, and Ecological Niche Modeling
+
+- Ecological niche modeling of montane Appalachian pitcher plants (*Sarracenia sp.*) at the Atlanta Botanical Garden
+
+- Climate vulnerability assessment for American Starvine (*Schisandra glabra*) at Emory University and the Atlanta Botanical Garden
 
 ## Natural History of Uncommon and Imperiled Species
 
 Fundamental natural history information is critical for guiding conservation and management strategies for rare species.
 
--   Natural history and phenology of American Starvine at Emory University
+- Natural history and phenology of American Starvine at Emory University
 
--   Microhabitat utilization of the Talladega Seal Salamander at Emory University
+- Microhabitat utilization of the Talladega Seal Salamander at Emory University
 
 ## Causes and Consequences of Species Rarity

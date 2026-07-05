@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Nicholas Chang</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6bdd2aebeb936dcddaa5f935a5de481c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6033a600180109c3731f6a886c29932c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -146,7 +149,16 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>My name is Nick Chang and I’m currently a Ph.D.&nbsp;student in the Department of Ecology, Evolution, and Behavior at the University of Minnesota. I am currently studying the evolution and conservation of imperiled wild blackberries (<em>Rubus sp.</em>)</p>
+<p>My name is Nick Chang and I’m currently a Ph.D.&nbsp;student in Ecology, Evolution, and Behavior at the University of Minnesota! I’m interested in using genomic, geospatial, and ecological tools to advance the conservation of North America’s rare plants. My doctoral research will use population genetics, molecular systematics, and niche modeling to inform the management of Minnesota’s imperiled wild blackberries (Rubus sp.), and to understand evolutionary drivers of species rarity. My previous work has involved amphibians, pitcher plants, and oysters in both natural and human-dominated contexts.</p>
+<p>In addition to my scientific interests, I am passionate about leveraging field courses and community-engaged learning to connect students with applied questions in ecology and improve inclusivity and sense of belonging in undergraduate cohorts. As an undergrad, I participated in the Ecological Society of America’s SEEDS program, which has had a huge impact on me and other students.</p>
+<p>Outside of the classroom/lab, I enjoy hiking, camping, growing unusual plants, aquarium keeping, and photographing salamanders and wildflowers.</p>
+<p>You can reach me at chan2624@umn.edu</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/Screenshot 2026-07-05 at 2.37.53 PM.png" class="img-fluid figure-img"></p>
+<figcaption>Me, at the Bell Museum of Natural History, Ramsey Co., MN. August 2025.</figcaption>
+</figure>
+</div>
 <p><img src="images/Ambystoma_maculatum_2024-02-11.JPG" class="img-fluid"><br>
 <em>Ambystoma maculatum</em> from DeKalb Co., GA</p>
 
@@ -204,13 +216,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
