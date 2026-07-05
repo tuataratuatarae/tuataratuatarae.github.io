@@ -48,7 +48,7 @@ title: "CV"
 
 ### Technical Reports
 
-Hines K., **N.J. Chang,** S. Pierce, & C. Brown. In press. Propagation Protocol: Seed germination and nursery culture protocol for American starvine (Schisandra glabra). Native Plants Journal 26(2):158–162. <https://doi.org/10.3368/npj.26.2.158>.
+Hines K., **N.J. Chang,** S. Pierce, & C. Brown. 2026. Propagation Protocol: Seed germination and nursery culture protocol for American starvine (Schisandra glabra). Native Plants Journal 26(2):158–162. <https://doi.org/10.3368/npj.26.2.158>.
 
 ## Teaching Experience
 
